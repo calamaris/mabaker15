@@ -1,0 +1,1892 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"res",
+				"responsiveSlider"
+			],
+			[
+				"img",
+				"imgName"
+			],
+			[
+				"ruta",
+				"rutaResp"
+			],
+			[
+				"slide",
+				"slidesTotales"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"borde",
+				"border-left"
+			],
+			[
+				"guar",
+				"guardaHash"
+			],
+			[
+				"url",
+				"urlHash"
+			],
+			[
+				"guarda",
+				"guardaIdioma"
+			],
+			[
+				"lang",
+				"langSelector"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"video",
+				"videoContainer"
+			],
+			[
+				"videoC",
+				"videoCluster"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"inter",
+				"intervalo"
+			],
+			[
+				"mueve",
+				"mueveAuto"
+			],
+			[
+				"Pas",
+				"pastelCrema"
+			],
+			[
+				"galle",
+				"galletasDecoradas"
+			],
+			[
+				"gela",
+				"gelatinaArtistica"
+			],
+			[
+				"vid",
+				"vidID"
+			],
+			[
+				"pdf",
+				"pdfFormado"
+			],
+			[
+				"prod",
+				"prodInit"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bann",
+				"banners"
+			],
+			[
+				"banner",
+				"bannCentral"
+			],
+			[
+				"bane",
+				"bannCentral"
+			],
+			[
+				"tex",
+				"texto"
+			],
+			[
+				"btn",
+				"btnProducto"
+			],
+			[
+				"sli",
+				"sliderWidth"
+			],
+			[
+				"to",
+				"toGo"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"tajin",
+				"TAJIN"
+			],
+			[
+				"loca",
+				"localLang"
+			],
+			[
+				"loc",
+				"localLang"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"local",
+				"localArrCheck"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"resut",
+				"resultado2"
+			],
+			[
+				"activa",
+				"activaFila"
+			],
+			[
+				"check",
+				"checkListener"
+			],
+			[
+				"desac",
+				"desactivaFila"
+			],
+			[
+				"col",
+				"colCh"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"b",
+				"bxz	box-sizing: ${1:border-box};"
+			],
+			[
+				"dif",
+				"difIntermedio"
+			],
+			[
+				"m",
+				"max-width"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"bgz",
+				"bgsz-ct	background-size: contain;"
+			],
+			[
+				"banne",
+				"bannerPlatoBuenComer"
+			],
+			[
+				"ba",
+				"bannerPlatoBuenComer"
+			],
+			[
+				"resul",
+				"resultado2"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"botones",
+				"botonesSec"
+			],
+			[
+				"per",
+				"perfilador2"
+			],
+			[
+				"pe",
+				"perfilador1"
+			],
+			[
+				"Perfilador",
+				"PERFILADOR"
+			],
+			[
+				"pagina",
+				"paginaActiva"
+			],
+			[
+				"input",
+				"inputShort"
+			],
+			[
+				"form",
+				"formZone"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"sans",
+				"sans-serif"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"Home",
+				"homeDiv2"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"opaci",
+				"opacityToUse"
+			],
+			[
+				"footer",
+				"footerFix"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"backgroun",
+				"background-repeat"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"icon",
+				"icon-bar"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"cover",
+				"coverPhoto"
+			],
+			[
+				"cove",
+				"coverPhoto"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"right",
+				"rightContain"
+			],
+			[
+				"descri",
+				"descripcionCompleta"
+			],
+			[
+				"cer",
+				"certificadoSec"
+			],
+			[
+				"corret",
+				"correctas"
+			],
+			[
+				"fina",
+				"finalHack"
+			],
+			[
+				"conti",
+				"continuaSlide"
+			],
+			[
+				"extra",
+				"extraeViajesActivos"
+			],
+			[
+				"viaje",
+				"extraeViajes"
+			],
+			[
+				"desc",
+				"descripcionActual"
+			],
+			[
+				"cerrar",
+				"cerrarBtn"
+			],
+			[
+				"pre",
+				"preguntasMask"
+			],
+			[
+				"medidor",
+				"medidorZone"
+			],
+			[
+				"avan",
+				"avanzaMedidor"
+			],
+			[
+				"com",
+				"completadas"
+			],
+			[
+				"promo",
+				"promoBtnZone"
+			],
+			[
+				"inp",
+				"promoInput"
+			],
+			[
+				"correc",
+				"correctas"
+			],
+			[
+				"preguntas",
+				"preguntas"
+			],
+			[
+				"respu",
+				"respuestaCorrecta"
+			],
+			[
+				"obj",
+				"objExamen"
+			],
+			[
+				"respues",
+				"RespuestaSeleccionada"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"pregun",
+				"preguntasZone"
+			],
+			[
+				"preg",
+				"preguntasZone"
+			],
+			[
+				"sub",
+				"subTitulo"
+			],
+			[
+				"el",
+				"elGenero"
+			],
+			[
+				"la",
+				"laEtapa"
+			],
+			[
+				"de",
+				"deviceCheck"
+			],
+			[
+				"cont",
+				"contSlidesProductos"
+			],
+			[
+				"n",
+				"nota"
+			],
+			[
+				"txt",
+				"txt2"
+			],
+			[
+				"gra",
+				"grafica"
+			],
+			[
+				"ite",
+				"item4"
+			],
+			[
+				"item",
+				"item1"
+			],
+			[
+				"li",
+				"lightbox"
+			],
+			[
+				"txt_",
+				"txt_2"
+			],
+			[
+				"circu",
+				"circulo"
+			],
+			[
+				"globo",
+				"globo2"
+			],
+			[
+				"glo",
+				"globo1"
+			],
+			[
+				"circul",
+				"CirculoZone"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "acetato.php",
+			"settings":
+			{
+				"buffer_size": 1067,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/footer.php",
+			"settings":
+			{
+				"buffer_size": 222,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "shared/css/main.css",
+			"settings":
+			{
+				"buffer_size": 15679,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 7691,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/head.php",
+			"settings":
+			{
+				"buffer_size": 381,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "shared/js/main.js",
+			"settings":
+			{
+				"buffer_size": 11149,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 265.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Autoprefix CSS"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Enable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/mabaker15/shared/js/fichas.js",
+		"/C/wamp/www/mabaker15/chocolate.php",
+		"/C/wamp/www/mabaker15/catalogoProductos.php",
+		"/C/wamp/www/mabaker15/pastelCrema.php",
+		"/C/Users/Oscar/Google Drive/Clientes/Calamaris/Ma Baker/Sitio 2015/cambios/moldesTransfer.php",
+		"/C/wamp/www/mabaker15/index.php",
+		"/C/wamp/www/mabaker15/shared/css/main.css",
+		"/C/wamp/www/mabaker15/vRecetas-pastillaje_Modelado.php",
+		"/C/wamp/www/mabaker15/vRecetas-pastelFondant.php",
+		"/C/wamp/www/mabaker15/vRecetas-pastel.php",
+		"/C/wamp/www/mabaker15/vRecetas-panaderia.php",
+		"/C/wamp/www/mabaker15/vRecetas-gelatinaArtistica.php",
+		"/C/wamp/www/mabaker15/vRecetas-galletaDecorada.php",
+		"/C/wamp/www/mabaker15/vRecetas-eventos.php",
+		"/C/wamp/www/mabaker15/vRecetas-chocolate.php",
+		"/C/wamp/www/mabaker15/videorecetas.php",
+		"/C/wamp/www/mabaker15/seccionFondant.php",
+		"/C/wamp/www/mabaker15/productos.php",
+		"/C/wamp/www/mabaker15/postres.php",
+		"/C/wamp/www/mabaker15/panaderia.php",
+		"/C/wamp/www/mabaker15/moldes.php",
+		"/C/wamp/www/mabaker15/ingredientes.php",
+		"/C/wamp/www/mabaker15/gelatinaArtistica.php",
+		"/C/wamp/www/mabaker15/galletasDecoradas.php",
+		"/C/wamp/www/mabaker15/empresa.php",
+		"/C/wamp/www/mabaker15/contacto.php",
+		"/C/wamp/www/mabaker15/bombones.php",
+		"/C/wamp/www/mabaker15/shared/css/productos.css",
+		"/C/wamp/www/mabaker15/shared/css/empresa.css",
+		"/C/wamp/www/mabaker15/shared/css/productoBase.css",
+		"/C/wamp/www/mabaker15/shared/css/contacto.css",
+		"/C/wamp/www/mabaker15/shared/js/main.js",
+		"/C/wamp/www/mabaker15/includes/head.php",
+		"/C/wamp/www/mabaker15/recibe.php",
+		"/C/wamp/www/mabaker15/includes/header.php",
+		"/C/Users/Oscar/AppData/Local/Temp/7zO0D5F5C4A/main.css",
+		"/C/Users/Oscar/Desktop/javascript-koans-master/koans/AboutApplyingWhatWeHaveLearnt.js",
+		"/C/wamp/www/mabaker15/000-Resp/contacto.php",
+		"/C/wamp/www/mabaker15/shared/css/videorecetas.css",
+		"/C/wamp/www/mabaker15/includes/footer.php",
+		"/C/wamp/www/mabaker15/acidoCitrico.php",
+		"/C/wamp/www/mabaker15/pintaColorDiamantado.php",
+		"/C/wamp/www/mabaker15/jellyColor.php",
+		"/C/wamp/www/mabaker15/includes/ficha.php",
+		"/C/wamp/www/mabaker15/000-Resp1/includes/header.php",
+		"/C/wamp/www/mabaker15/benzonato.php",
+		"/C/wamp/www/mabaker15/isomalt.php",
+		"/C/wamp/www/00Lang -jquery-lang-js-master/js/langpack/th.json",
+		"/C/wamp/www/00Lang -jquery-lang-js-master/index.html",
+		"/C/wamp/www/00Lang -jquery-lang-js-master/README.md",
+		"/C/wamp/www/mabaker15/vRecetas_galletaDecorada.php",
+		"/C/wamp/www/mabaker15/vRecetas_eventos.php",
+		"/C/wamp/www/mabaker15/vRecetas_Chocolate.php",
+		"/C/wamp/www/MaBaker/videoCluster.html",
+		"/C/Users/Oscar/AppData/Roaming/Sublime Text 2/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+		"/C/wamp/www/mabaker15/fondant.php",
+		"/C/wamp/www/mabaker15/gubias.php",
+		"/C/wamp/www/mabaker15/mermeladasHorneables.php",
+		"/C/wamp/www/mabaker15/moldesPolicarbonato.php",
+		"/C/wamp/www/mabaker15/moldesSilicona.php",
+		"/C/wamp/www/mabaker15/moldesTransfer.php",
+		"/C/wamp/www/mabaker15/moldesTruffly.php",
+		"/C/wamp/www/mabaker15/pectina.php",
+		"/C/wamp/www/mabaker15/pegamentoFondant.php",
+		"/C/wamp/www/mabaker15/perlasDiamantadas.php",
+		"/C/wamp/www/mabaker15/perlasNacaradas.php",
+		"/C/wamp/www/mabaker15/pintaColor.php",
+		"/C/wamp/www/mabaker15/pintaColorMetalico.php",
+		"/C/wamp/www/mabaker15/plumones.php",
+		"/C/wamp/www/mabaker15/producto.php",
+		"/C/wamp/www/mabaker15/rellenoGanache.php",
+		"/C/wamp/www/mabaker15/royalIcing.php",
+		"/C/wamp/www/mabaker15/saborGanache.php",
+		"/C/wamp/www/mabaker15/saborGelatina.php",
+		"/C/wamp/www/mabaker15/saborPan.php",
+		"/C/wamp/www/mabaker15/shablones.php",
+		"/C/wamp/www/mabaker15/sprayColor.php",
+		"/C/wamp/www/mabaker15/sprayColorOro.php",
+		"/C/wamp/www/mabaker15/sprayColorPlata.php",
+		"/C/wamp/www/mabaker15/sugarCrush.php",
+		"/C/wamp/www/mabaker15/sugarLace.php",
+		"/C/wamp/www/mabaker15/tapeteFondant.php",
+		"/C/wamp/www/mabaker15/vainillaOscura.php",
+		"/C/wamp/www/mabaker15/brilloParaPan.php",
+		"/C/wamp/www/mabaker15/carameloLiquido.php",
+		"/C/wamp/www/mabaker15/coberturaChiclosa.php",
+		"/C/wamp/www/mabaker15/coberturaChocolate.php",
+		"/C/wamp/www/mabaker15/coberturaDona.php",
+		"/C/wamp/www/mabaker15/coberturaTamarindo.php",
+		"/C/wamp/www/mabaker15/cocoaAlcalina.php",
+		"/C/wamp/www/mabaker15/colorChocolate.php",
+		"/C/wamp/www/mabaker15/colorEnPolvo.php",
+		"/C/wamp/www/mabaker15/cortadores.php",
+		"/C/wamp/www/mabaker15/cremorTartaro.php",
+		"/C/wamp/www/mabaker15/desmoldanteSpray.php",
+		"/C/wamp/www/mabaker15/diamantina6g.php",
+		"/C/wamp/www/mabaker15/diamantina7g.php",
+		"/C/wamp/www/mabaker15/endurecedorFondant.php",
+		"/C/wamp/www/mabaker15/FlanEnPolvo.php",
+		"/C/wamp/www/mabaker15/fuenteDeChocolate.php",
+		"/C/wamp/www/mabaker15/glicerina.php",
+		"/C/wamp/www/mabaker15/glitter.php",
+		"/C/wamp/www/mabaker15/glucosa.php",
+		"/C/wamp/www/mabaker15/lectinaDeSoya.php",
+		"/C/wamp/www/mabaker15/liquidColor.php",
+		"/C/wamp/www/mabaker15/MABaker15.sublime-project",
+		"/C/wamp/www/mabaker15/matizadores.php",
+		"/C/wamp/www/mabaker15/merengue.php",
+		"/C/wamp/www/mabaker15/acetato.php",
+		"/C/wamp/www/mabaker15/includes/asideFichas.php",
+		"/C/wamp/www/mabaker15/es/includes/header.php",
+		"/C/wamp/www/mabaker15/es/includes/head.php",
+		"/C/wamp/www/mabaker15/es/index.php",
+		"/C/wamp/www/mabaker15/es/productos.php",
+		"/C/wamp/www/mabaker15/es/producto.php",
+		"/C/wamp/www/mabaker15/es/chocolate.php",
+		"/C/wamp/www/mabaker15/es/includes/footer.php",
+		"/C/wamp/www/mabaker15/es/producto.html",
+		"/C/wamp/www/mabaker15/codigo/index.php",
+		"/C/wamp/www/mabaker15/codigo/producto.html",
+		"/C/Users/Oscar/Google Drive/Clientes/Calamaris/Ma Baker/Sitio 2015/codigo/maBaker15.sublime-project",
+		"/C/Users/Oscar/Google Drive/Clientes/Calamaris/Ma Baker/Sitio 2015/codigo/shared/css/productoBase.css",
+		"/C/Users/Oscar/Google Drive/Clientes/Calamaris/Ma Baker/Sitio 2015/codigo/shared/css/main.css",
+		"/C/Users/Oscar/Google Drive/Clientes/Calamaris/Ma Baker/Sitio 2015/codigo/shared/js/main.js",
+		"/C/Users/Oscar/Google Drive/Clientes/Calamaris/Ma Baker/Sitio 2015/codigo/producto.html",
+		"/C/Users/Oscar/Google Drive/Clientes/Calamaris/Ma Baker/Sitio 2015/codigo/index.php",
+		"/C/Users/Oscar/Google Drive/Clientes/Calamaris/Ma Baker/Sitio 2015/codigo/shared/includes/head.php",
+		"/C/wamp/www/mabaker15/codigo/shared/includes/desktop.ini"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			"C:\\wamp\\www\\DOV-Tajin",
+			"C:\\Users\\Oscar\\Dropbox\\Web PYG\\Rossy\\Rossi html"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Transfer",
+			"Transf",
+			"Tra",
+			"trasfer ",
+			"trasfer chocolate",
+			"chocolate",
+			"trasfer",
+			"moldesTransfer",
+			"moldesTrasfer",
+			"moldes",
+			"ease-in-out",
+			"Ma Baker and cheff",
+			"iw",
+			"slide1",
+			"for",
+			"slides",
+			"<br><br>",
+			"email",
+			"telefono",
+			"email",
+			"nombre",
+			" <br>",
+			"checkbox",
+			"distribuidor",
+			"p",
+			"STROG",
+			"div",
+			"Ma Baker and Chef",
+			"5",
+			"mail",
+			"lang",
+			"Lang",
+			"lang",
+			"local",
+			"alert",
+			"cambiaIdioma",
+			"Pastillaje y modelado",
+			"pastillaje y modelado",
+			"Panadería",
+			"lang=",
+			"lang",
+			"”",
+			"contain",
+			"25",
+			"28",
+			"235px",
+			"35",
+			"50",
+			".vidZone",
+			"productos",
+			"2",
+			"0.5",
+			"h2",
+			"section",
+			"float: left;",
+			"block",
+			"3",
+			"10px",
+			"time",
+			"animate",
+			"localStorage",
+			"setItem",
+			"sessionStorage",
+			"<a href=\"chocolate.php\">Chocolate</a>",
+			"pdf",
+			"img/",
+			"vr",
+			"thumbs/",
+			"shared/pdfs/",
+			"=\"bt",
+			"clas",
+			"id=\"",
+			"id",
+			"id=\"",
+			"../",
+			"ruta\":\"pd",
+			"\"pdf",
+			"\"pdf.",
+			"pdf",
+			"nombre",
+			"figure",
+			"10%",
+			"img/",
+			"img",
+			"#370400",
+			"gray",
+			"100",
+			"html",
+			"51",
+			"LEFT",
+			"shared",
+			"includes",
+			"shared",
+			"descripcion",
+			"0",
+			"flechaIzq",
+			"0.5",
+			"id=\"skrollr-body\"",
+			"data-",
+			" data-1",
+			"'\n",
+			"MaBakerLogo",
+			"img",
+			"opacity",
+			" no-repeat",
+			"40",
+			"150",
+			"1024",
+			"320px",
+			" 0.5s",
+			"top",
+			"background",
+			"no-repeat",
+			"<li>",
+			"inset 3px 5px 20px rgba(0,0,0,0.5)",
+			"<div",
+			"a --",
+			"a",
+			"<!-- -- \n				-->",
+			"</div>",
+			"<a href=\"#\">",
+			" -- ",
+			"-- ",
+			"--",
+			"<div",
+			"</div>",
+			"				</",
+			"background"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<a href=\"catalogoProductos.php\">Todos los productos</a>",
+			"¨<a href=\"catalogoProductos.php\">Todos los productos</a>",
+			"¨"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "acetato.php",
+					"settings":
+					{
+						"buffer_size": 1067,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								961,
+								921
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML 5.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 337.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "includes/footer.php",
+					"settings":
+					{
+						"buffer_size": 222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								222,
+								222
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML 5.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "shared/css/main.css",
+					"settings":
+					{
+						"buffer_size": 15679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9415,
+								9415
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7797.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 7691,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								343,
+								343
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML 5.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "includes/head.php",
+					"settings":
+					{
+						"buffer_size": 381,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								23
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML 5.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "shared/js/main.js",
+					"settings":
+					{
+						"buffer_size": 11149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9994,
+								10153
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6330.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "shared/css/main.css",
+					"settings":
+					{
+						"buffer_size": 15679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3622,
+								3622
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 5.0,
+						"translation.y": 2929.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.522596886485,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 35.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 30.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"fich",
+				"shared/js/fichas.js"
+			],
+			[
+				"prod",
+				"catalogoProductos.php"
+			],
+			[
+				"main",
+				"shared/css/main.css"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"head",
+				"includes/head.php"
+			],
+			[
+				"man",
+				"shared/js/main.js"
+			],
+			[
+				"foo",
+				"includes/footer.php"
+			],
+			[
+				"mai",
+				"shared/css/main.css"
+			],
+			[
+				"produ",
+				"shared/css/productos.css"
+			],
+			[
+				"conta",
+				"contacto.php"
+			],
+			[
+				"contac",
+				"shared/css/contacto.css"
+			],
+			[
+				"con",
+				"000-Resp/contacto.php"
+			],
+			[
+				"heade",
+				"includes/header.php"
+			],
+			[
+				"jell",
+				"jellyColor.php"
+			],
+			[
+				"ficha",
+				"includes/ficha.php"
+			],
+			[
+				"paste",
+				"vRecetas-pastelFondant.php"
+			],
+			[
+				"acid",
+				"acidoCitrico.php"
+			],
+			[
+				"foot",
+				"includes/footer.php"
+			],
+			[
+				"pinta",
+				"pintaColorDiamantado.php"
+			],
+			[
+				"choco",
+				"chocolate.php"
+			],
+			[
+				"header",
+				"includes/header.php"
+			],
+			[
+				"hea",
+				"includes/head.php"
+			],
+			[
+				"isoma",
+				"isomalt.php"
+			],
+			[
+				"benzona",
+				"benzonato.php"
+			],
+			[
+				"vr",
+				"vRecetas-galletaDecorada.php"
+			],
+			[
+				"chocola",
+				"chocolate.php"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"produc",
+				"shared/css/productoBase.css"
+			],
+			[
+				"recetas",
+				"default/public/shared/stylesheets/recetas.css"
+			],
+			[
+				"me",
+				"default/app/views/_shared/partials/menu.phtml"
+			],
+			[
+				"styl",
+				"default/public/shared/stylesheets/stylesheets.css"
+			],
+			[
+				"menu",
+				"default/app/views/_shared/partials/menu.phtml"
+			],
+			[
+				"histo",
+				"default/app/views/historia/index.phtml"
+			],
+			[
+				"nota",
+				"default/app/views/nota/index.phtml"
+			],
+			[
+				"receta",
+				"default/app/views/receta/index.phtml"
+			],
+			[
+				"home",
+				"default/public/shared/stylesheets/home.css"
+			],
+			[
+				"promo",
+				"default/app/views/promocion/index.phtml"
+			],
+			[
+				"idio",
+				"default/public/shared/js/idiomaSwitcher.js"
+			],
+			[
+				"foote",
+				"default/app/views/_shared/partials/footer.phtml"
+			],
+			[
+				"taji",
+				"default/public/admin/js/imgs.js"
+			],
+			[
+				"para",
+				"default/public/shared/js/cdi_parallax.js"
+			],
+			[
+				"promotio",
+				"default/public/shared/stylesheets/promotions.css"
+			],
+			[
+				"",
+				".htaccess"
+			],
+			[
+				".js",
+				"default/public/shared/js/main.js"
+			],
+			[
+				"style",
+				"default/public/shared/stylesheets/stylesheets.css"
+			],
+			[
+				"pro",
+				"default/public/shared/stylesheets/productos.css"
+			],
+			[
+				"enjoy",
+				"default/public/shared/stylesheets/enjoy.css"
+			],
+			[
+				"product",
+				"default/public/shared/stylesheets/productos.css"
+			],
+			[
+				"perf",
+				"www/GNP app/DOV-GNP/Codigo/perfilador2.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"gift",
+				"/C/wamp/www/DOV-CDI/giftedCitizen.sublime-project"
+			],
+			[
+				"",
+				"/C/wamp/www/Mauro-Acer/acer.sublime-project"
+			],
+			[
+				"gif",
+				"/C/wamp/www/DOV-CDI/giftedCitizen.sublime-project"
+			],
+			[
+				"cd",
+				"/C/wamp/www/DOV-CDI/giftedCitizen.sublime-project"
+			],
+			[
+				"acer",
+				"/C/wamp/www/Mauro-Acer/acer.sublime-project"
+			],
+			[
+				"maba",
+				"/C/wamp/www/mabaker15/MABaker15.sublime-project"
+			],
+			[
+				"hemi",
+				"/C/wamp/www/hemisferioFinanciero/hemisferio.sublime-project"
+			],
+			[
+				"ila",
+				"/C/wamp/www/DOV-iLatina/iLatina.sublime-project"
+			],
+			[
+				"taner",
+				"/C/wamp/www/Taner/taner.sublime-project"
+			],
+			[
+				"tane",
+				"/C/wamp/www/Taner/taner.sublime-project"
+			],
+			[
+				"ara",
+				"/C/wamp/www/DOV-Aramark/Aramark.sublime-project"
+			],
+			[
+				"cher",
+				"/C/wamp/www/cherry/cherryBakery.sublime-project"
+			],
+			[
+				"tan",
+				"/C/wamp/www/Taner/taner.sublime-project"
+			],
+			[
+				"cherr",
+				"/C/wamp/www/cherry/cherryBakery.sublime-project"
+			],
+			[
+				"tajin",
+				"/C/wamp/www/DOV-Tajin/tajin.sublime-project"
+			],
+			[
+				"delar",
+				"/C/wamp/www/AdrianBravo-DelArte/DelArte.sublime-project"
+			],
+			[
+				"hemis",
+				"/C/wamp/www/hemisferioFinanciero/hemisferio.sublime-project"
+			],
+			[
+				"edufi",
+				"/C/wamp/www/DOV-EducacionFinanciera/Educacion Financiera.sublime-project"
+			],
+			[
+				"eduf",
+				"/C/wamp/www/DOV-EducacionFinanciera/Educacion Financiera.sublime-project"
+			],
+			[
+				"edi",
+				"/C/wamp/www/DOV-EducacionFinanciera/Educacion Financiera.sublime-project"
+			],
+			[
+				"taji",
+				"/C/wamp/www/DOV-Tajin/tajin.sublime-project"
+			],
+			[
+				"ta",
+				"/C/wamp/www/DOV-Tajin/tajin.sublime-project"
+			],
+			[
+				"taj",
+				"/C/wamp/www/DOV-Tajin/tajin.sublime-project"
+			],
+			[
+				"nis",
+				"/C/wamp/www/DOV-Nishi/nishi.sublime-project"
+			],
+			[
+				"ni",
+				"/C/wamp/www/DOV-Nishi/nishi.sublime-project"
+			],
+			[
+				"ninsh",
+				"/C/wamp/www/DOV-Nishi/nishi.sublime-project"
+			],
+			[
+				"ed",
+				"/C/wamp/www/DOV-EducacionFinanciera/Educacion Financiera.sublime-project"
+			],
+			[
+				"media",
+				"/C/wamp/www/Follower-MediaTec/mediaTec.sublime-project"
+			],
+			[
+				"tec",
+				"/C/wamp/www/Follower-MediaTec/mediaTec.sublime-project"
+			],
+			[
+				"dano",
+				"/C/wamp/www/danoninoMobile/danoninoMobile.sublime-project"
+			],
+			[
+				"cuatr",
+				"/C/wamp/www/cuatro hojas/cuatroHojas.sublime-project"
+			],
+			[
+				"cuatro",
+				"/C/wamp/www/cuatro hojas/cuatroHojas.sublime-project"
+			],
+			[
+				"baby",
+				"/C/wamp/www/Havas-BabyShower/babyShower.sublime-project"
+			],
+			[
+				"dan",
+				"/C/wamp/www/danoninoMobile/danoninoMobile.sublime-project"
+			],
+			[
+				"che",
+				"/C/Users/Oscar/Desktop/Cherry.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true
+}

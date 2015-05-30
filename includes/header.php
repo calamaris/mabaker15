@@ -1,0 +1,62 @@
+<header data-0="top:0px; position:fixed;" data-500="top:-103px; position:fixed;">
+	<div class="iw">
+		<a href="index.php">
+			<div id="logo" data-0="bottom: -60px; height:224px; background-image: url(shared/img/logoMabaker.png);" data-300="bottom: -80px;" data-303="bottom:-30px; height:102px; background-image: url(shared/img/MaBakerLogo.png);"></div>
+		</a>
+		<nav>
+			<ul>
+				<a href="productos.php">
+					<li id="prod">
+					
+						Productos
+						<div id="prodSubmenu">
+							<ul>
+								<a href="catalogoProductos.php"><li onmouseover="miniatura('productos')"><strong>Catálogo de productos</strong></li></a>
+								<a href="chocolate.php"><li onmouseover="miniatura('chocolate')">Chocolate</li></a>
+								<a href="seccionFondant.php"><li onmouseover="miniatura('fondant')">Fondant</li></a>
+								<a href="gelatinaArtistica.php"><li onmouseover="miniatura('gelatina')">Gelatina artística</li></a>
+								<a href="galletasDecoradas.php"><li onmouseover="miniatura('galletas')">Galletas decoradas</li></a>
+								<a href="bombones.php"><li onmouseover="miniatura('bombon')">Bombón</li></a>
+								<a href="pastelCrema.php"><li onmouseover="miniatura('pastel')">Pastel de crema</li></a>
+								<a href="panaderia.php"><li onmouseover="miniatura('panaderia')">Panadería</li></a>					
+							</ul>
+							<div id="miniaturaSmenu">
+								<img src="shared/img/miniaturas/pastel.png" width="200" alt="">
+							</div>
+						</div>
+					
+					</li>
+				</a>
+				<a href="empresa.php"><li>Empresa</li></a>
+				<a href="videorecetas.php">
+					<li>Videorecetas</li>
+				</a>
+				<a href="contacto.php">
+					<li>Contacto</li>
+				</a>
+				
+			</ul>
+			<div id="redesZ">
+				<a href="https://www.youtube.com/channel/UCGGyimOFvydG6xazUESCeeA" target="_blank"><div  class="btnRedes" id="youtube"></div></a>
+				<a href="http://issuu.com/mabakerandchef" target="_blank"><div class="btnRedes" id="issuu"></div></a>
+				<div class="btnRedes" id="pinterest"></div>
+				<a href="https://www.facebook.com/MaBakerAndChef?notif_t=fbpage_fan_invite" target="_blank"><div class="btnRedes" id="facebook"></div></a>
+				<a href="https://twitter.com/MaBakerAndChef" target="_blank"><div class="btnRedes" id="twitter"></div></a>
+				<a href="https://plus.google.com/+Mabakerandchefcolorysabor/about" target="_blank"><div class="btnRedes" id="goggle"></div></a>
+				<div class="btnRedes" id="mail"></div>
+			</div>
+		</nav>
+		<div id="menuMovil" onclick="toggleActive('nav')">
+			<span class="menuLine"></span>
+			<span class="menuLine"></span>
+			<span class="menuLine"></span>
+		</div>
+
+		<div id="langSelector">
+			<span>Idioma</span>
+			<div class="lang active" id="es" onclick="selecIdioma('es')">es</div>
+			<div class="lang" id="en" onclick="selecIdioma('en')">en</div>
+		</div>
+	</div>
+
+</header>

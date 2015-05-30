@@ -1,0 +1,892 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Lato', sans-serif;
+}
+
+a:link{
+	text-decoration: none;
+	color: inherit;
+}
+
+a:visited{
+	text-decoration: none;
+	color: inherit;
+}
+img{
+	margin: 0;
+	padding: 0;
+}
+.iw{
+	max-width: 1280px;
+	min-width: 320px;
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	position: relative;
+	/*overflow: hidden;*/
+}
+
+section{
+	width: 100%;
+	color: white;
+}
+header{
+	background: url(../img/plecaHeader.png) repeat-x bottom;
+	width: 100%;
+	height: 167px;
+	position: fixed;
+	z-index: 900;
+}
+#fixHeader{
+	height: 89px;
+	width: 100%;
+}
+#logo{
+	background-image: url(../img/logoMabaker.png);
+	background-repeat: no-repeat;
+	width: 230px;
+	height: 250px;
+	position: absolute;
+	bottom: -82px;
+	left: 0;
+	z-index: 900;
+	-webkit-background-size: contain;
+	background-size: contain;
+}
+#menuMovil{
+	width: 32px;
+	height: 32px;
+	position: absolute;
+	bottom: 18px;
+	right: 10px;
+	z-index: 99999999;
+	padding-top: 5px;
+	cursor: pointer;
+	display: none;
+}
+.menuLine{
+	width: 24px;
+	height: 2px;
+	background: white;
+	margin: 4px 4px;
+	display: block;
+}
+nav{
+	position: absolute;
+	bottom: 13px;
+	right: 0;
+	width: 81%;
+	width: calc(100% - 209px);
+	height: 49px;
+}
+nav ul{
+	list-style: none;
+	float: left;
+	/*position: absolute;
+	left: 0; bottom: 0;*/
+	width: 80%;
+	width: calc(97% - 170px);
+}
+nav ul li#prod{
+	padding-left: 45px;
+
+}
+nav ul li{
+	position: relative;
+	float: left;
+	padding: 13px 2.4%;
+	background: url(../img/menuDivisor.png) no-repeat right;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	height: 49px;
+	color: white;
+	font-weight: 500;
+	font-size: 20px;
+	cursor: pointer;
+	text-shadow: 0 0 10px rgba(0,0,0,0.7);
+}
+nav ul li:hover,
+nav ul li.active{
+	background: #3F0000;
+	-webkit-box-shadow: inset 3px 5px 20px rgba(0,0,0,0.5);
+	box-shadow: inset 3px 5px 20px rgba(0,0,0,0.5);
+}
+li#prod:hover > #prodSubmenu{
+	display: block;
+}
+#prodSubmenu{
+	position: absolute;
+	bottom: -221px;
+	left: 0;
+	height: 222px;
+	width: 470px;
+	background: #3F0000 url(../img/bgSubmenu.jpg) no-repeat top center;
+	border-radius: 0 0 15px 15px;
+	padding-left: 0;
+	box-shadow: 0px 2px 14px rgba(0,0,0,0.6);
+	display: none;
+}
+#prodSubmenu ul{
+	padding-left: 0px;
+	width: 30%;
+	margin-left: 30px;
+	margin-top: 6px;
+	float: left;
+}
+#prodSubmenu ul li{
+	position: relative;
+	float: none;
+	padding: 4px 1%;
+	background: transparent;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	height: auto;
+	color: white;
+	font-weight: 400;
+	font-size: 15px;
+	cursor: pointer;
+	text-shadow: none;
+	width: 190px;
+}
+#prodSubmenu ul li:hover{
+	background: transparent;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+#prodSubmenu ul li:hover:before{
+	content: "";
+	position: absolute;
+	width: 5px;
+	height: 70%;
+	background: white;
+	left: -10px;
+	top: 18%;
+}
+#miniaturaSmenu{
+	float: left;
+	width: 60%;
+	text-align: right;
+	margin-top: 12px;
+	padding-left: 0;
+}
+#redesZ{
+	float: right;
+	position: absolute;
+	right: 0;
+	overflow: hidden;
+	margin-left: 2%;
+}
+.btnRedes{
+	width: 28px;
+	height: 49px;
+	float: left;
+	margin: 0 3px;
+	cursor: pointer;
+}
+#pinterest{
+	background: url(../img/piterest.png) no-repeat center;
+
+}
+#facebook{
+	background: url(../img/facebook.png) no-repeat center;
+}
+#twitter{
+	background: url(../img/twiiter.png) no-repeat center;
+}
+#goggle{
+	background: url(../img/googleP.png) no-repeat center;
+}
+#mail{
+	background: url(../img/emai.png) no-repeat center;
+}
+#youtube{
+	background: url(../img/youtube.png) no-repeat center;
+}
+#issuu{
+	background: url(../img/issuu.png) no-repeat center;
+}
+
+
+/*------------------------------SLIDER*/
+#slider{
+	width: 100%;
+	min-width: 320px;
+	position: relative;
+	margin-top: -10px;
+	z-index: 1;
+	height: 465px;
+	overflow: hidden;
+}
+#sliderWrapper{
+	position: absolute;
+	height: 465px;
+	width: 99999px;
+	left: 0;
+	-webkit-transition: left 1s cubic-bezier(0.39, 0.02, 0.14, 0.93);
+	-o-transition: left 1s cubic-bezier(0.39, 0.02, 0.14, 0.93);
+	transition: left 1s cubic-bezier(0.39, 0.02, 0.14, 0.93);
+}
+.slide{
+	width: 1920px;
+	height: 465px;
+	background-position: center top;
+	background-repeat: no-repeat;
+	float: left;
+
+}
+#flechaDer, #flechaIzq{
+	position: absolute;
+	top: 190px;
+	width: 45px;
+	height: 92px;
+	z-index: 910;
+}
+#flechaIzq{
+	left: 10px;
+	background: url(../img/flechaIzq.png) no-repeat center;
+	cursor: pointer;
+}
+#flechaDer{
+	right: 10px;
+	background: url(../img/flechaDer.png) no-repeat center;
+	cursor: pointer;
+}
+
+/*------------------------------SLIDES*/
+#slide1{
+	background-image: url(../img/slider/MexiPan.jpg);
+}
+#slide2{
+	background-image: url(../img/slider/CMC.jpg);
+}
+#slide3{
+	background-image: url(../img/slider/ColorChocolate.jpg);
+}
+#slide4{
+	background-image: url(../img/slider/ColorPolvo.jpg);
+}
+
+#slide5{
+	background-image: url(../img/slider/Desmoldante.jpg);
+}
+
+#slide6{
+	background-image: url(../img/slider/Diamantina.jpg);
+}
+
+#slide7{
+	background-image: url(../img/slider/Flan.jpg);
+}
+
+#slide8{
+	background-image: url(../img/slider/Fondant.jpg);
+}
+
+#slide9{
+	background-image: url(../img/slider/Glicerina.jpg);
+}
+
+#slide10{
+	background-image: url(../img/slider/Glitter.jpg);
+}
+
+#slide11{
+	background-image: url(../img/slider/JellyColor.jpg);
+}
+
+#slide12{
+	background-image: url(../img/slider/LiquidColor.jpg);
+}
+
+#slide13{
+	background-image: url(../img/slider/Matizador.jpg);
+}
+
+#slide14{
+	background-image: url(../img/slider/Merengue.jpg);
+}
+
+#slide15{
+	background-image: url(../img/slider/Mermeladas.jpg);
+}
+
+#slide16{
+	background-image: url(../img/slider/Pegamento.jpg);
+}
+
+#slide17{
+	background-image: url(../img/slider/PintaColor.jpg);
+}
+
+#slide18{
+	background-image: url(../img/slider/PintaColorD.jpg);
+}
+
+#slide19{
+	background-image: url(../img/slider/PintaColorM.jpg);
+}
+
+#slide20{
+	background-image: url(../img/slider/Plumones.jpg);
+}
+
+#slide21{
+	background-image: url(../img/slider/RoyalIcing.jpg);
+}
+
+#slide22{
+	background-image: url(../img/slider/SaborGanache.jpg);
+}
+
+#slide23{
+	background-image: url(../img/slider/SaborGelatina.jpg);
+}
+
+#slide24{
+	background-image: url(../img/slider/SaborPan.jpg);
+}
+
+#slide25{
+	background-image: url(../img/slider/Shablones.jpg);
+}
+
+#slide26{
+	background-image: url(../img/slider/SprayColor.jpg);
+}
+
+#slide27{
+	background-image: url(../img/slider/Vainilla.jpg);
+}
+
+#slide28{
+	background-image: url(../img/slider/VainillaO.jpg);
+}
+
+/*------------------------------------*/
+#seccion1{
+	background: url(../img/sec2Bg.png) no-repeat center;
+	height: 681px;
+	margin-top: -10px;
+	position: relative;
+	z-index: 10;
+}
+.rombos{
+	background: url(../img/plecaRombos.png) no-repeat center;
+	width: 100%;
+	height: 13px;
+}
+.rizado{
+	background: url(../img/rizadoPleca.png) repeat-x center;
+	width: 100%;
+	height: 15px;
+	position: relative;
+}
+.banners{
+	float: left;
+	width: 33.333%;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	/*padding: 0 2%;*/
+	position: relative;
+}
+.banners figure{
+	-webkit-background-size: contain;
+	background-size: contain;
+}
+.banners h3{
+	font-size: 2.0em;
+	text-align: center;
+	padding: 10px 0;
+}
+.banners p{
+	font-size: 0.8em;
+	text-align: center;
+	padding: 10px 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+#bannIzquierdo figure{
+	position: relative;
+	z-index: 20;
+	left: -10%;
+	margin-top: 40px;
+	cursor: pointer;
+}
+
+#bannCentral figure{
+	width: 120%;
+	left: -20%;
+	top: -10px;
+	position: relative;
+	z-index: 30;
+	cursor: pointer;
+	border: none;
+}
+#bannCentral h3{
+	margin-top: -60px;
+}
+#bannIzquierdo h3,
+#bannDerecho h3{
+	
+}
+#bannDerecho figure{
+	position: relative;
+	z-index: 20;
+	left: -5%;
+	margin-top: 40px;
+	cursor: pointer;
+}
+
+#seccion2{
+	background: url(../img/rizadoPleca.png) repeat-x top;
+	overflow: hidden;
+}
+
+#contenedorProds{
+	padding-top: 30px;
+	width: 100%;
+	text-align: center;
+}
+.btnProducto{
+	width: 19.5%;
+	min-width: 160px;
+	display: inline-block;
+	padding: 0 0.5%;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	cursor: pointer;
+	position: relative;
+	margin-bottom: 10px;
+}
+.btnProducto:hover > .texto{
+	height: 50%;
+	background: rgba(0,0,0,0.7);
+}
+.btnProducto img{
+	position: relative;
+	z-index: 50;
+	display: block;
+}
+.btnProducto .texto{
+	text-align: left;
+	position: absolute;
+	bottom: 0;
+	width: 95%;
+	height: 0;
+	z-index: 70;
+	background: rgba(0,0,0,0.2);
+	overflow: hidden;
+	-webkit-transition: all 0.2s;
+	-o-transition: all 0.2s;
+	transition: all 0.2s;
+}
+.btnProducto .texto .texto1{
+	font-size: 25px;
+	margin-left: 10px;
+	margin-top: 10px;
+	font-weight: 600;
+	line-height: 1;
+}
+.btnProducto .texto .texto2{
+	font-size: 18px;
+	margin-left: 10px;
+	text-transform: uppercase;
+	font-weight: 200;
+	line-height: 1;
+}
+#btnTodosProductos{
+	width: 100%;
+	height: 80px;
+	padding-top: 20px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	background: #000;
+	text-align: center;
+	font-size: 30px;
+	font-weight: 200;
+}
+#seccion3{
+	overflow: hidden;
+}
+#contenedorVr{
+	width: 100%;
+	text-align: center;
+	padding-top: 20px;
+}
+.btnVreceta{
+	float: left;
+	width: 25%;
+	max-width: 320px;
+	height: 514px;
+	line-height: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	cursor: pointer;
+	background-position: top center;
+	background-repeat: no-repeat;
+	-webkit-background-size: contain;
+	background-size: contain;
+
+}
+.btnVreceta.chico{
+	margin-top: 5px;
+	height: 112px;
+}
+#btnVideoreceta{
+	float: left;
+	background: rgb(52, 52, 52);
+	padding: 3px 13px 7px 13px;
+	margin: 0 0 11px 243px;
+	color: white;
+	border-radius: 0 0 5px 5px;
+	text-decoration: underline;
+}
+/*--------Vrecetas*/
+#Vchocolate{
+	background-image: url(../img/Videorecetas/chocolateG.jpg);
+}
+#Vfondant{
+	background-image: url(../img/Videorecetas/fondantG.jpg);
+}
+#Vgelatina{
+	background-image: url(../img/Videorecetas/gelatinaG.jpg);
+}
+#Vpanaderia{
+	background-image: url(../img/Videorecetas/panaderiaG.jpg);
+}
+#Vgalletas{
+	background-image: url(../img/Videorecetas/galletas.jpg);
+}
+#vPastel{
+	background-image: url(../img/Videorecetas/pastel.jpg);
+}
+#VcupCakes{
+	background-image: url(../img/Videorecetas/cupcakes.jpg);
+}
+#Veventos{
+	background-image: url(../img/Videorecetas/eventos.jpg);
+}
+footer{
+	margin-top: 20px;
+	width: 100%;
+	height: 49px;
+	background: #3F0000;
+	color: rgba(255, 255, 255, 0.5);
+	text-align: center;
+	padding-top: 10px;
+	clear: both;
+	overflow: hidden;
+}
+footer a{
+	font-size: 14px;
+	text-decoration: underline !important;
+}
+.navegacionWrapp{
+	width: 100%;
+	color: white;
+	overflow: hidden;
+	text-align: center;
+}
+.navegacion{
+	/*width: 30%;*/
+	display: inline-block;
+	overflow: hidden;
+	height: 15px;
+	border-radius: 0 0 15px 15px;
+	background: rgb(60,60,60);
+	font-weight: 200;
+	padding: 5px 15px 10px 15px;
+	font-size: 14px;
+	letter-spacing: 4px;
+}
+.navegacion a{
+	display: inline-block;
+	color: white;
+	text-align: center;
+	font-style: italic;
+	font-weight: 400;
+	letter-spacing: 1px;
+	
+}
+.navegacion a:hover{
+	text-decoration: underline;
+}
+.topBanner{
+	width: 100%;
+	min-width: 320px;
+	position: relative;
+	z-index: 1;
+	height: 320px;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+#langSelector{
+	width: 75px;
+	height: 20px;
+	color: white;
+	text-shadow: 0px 0 3px #000;
+	position: absolute;
+	right: 0;
+	bottom: -23px;
+	font-size: 14px;
+	opacity: 0.7;
+	-webkit-transition: 0.2s all;
+	-o-transition: 0.2s all;
+	transition: 0.2s all;
+	display: none;
+}
+#langSelector:hover{
+	opacity: 1;
+}
+#langSelector span{
+	text-align: center;
+	display: block;
+	margin-bottom: 4px;
+}
+.lang{
+	text-shadow:none;
+	width: 50%;
+	height: 100%;
+	color: white;
+	text-align: left;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	float: left;
+	font-size: 13px;
+	font-style: italic;
+	font-weight: 400;
+	padding-top: 0px;
+	background: rgb(222, 30, 36);
+	border: 1px solid rgb(98, 4, 3);
+	box-shadow: 0 0 5px rgba(0,0,0,0.3);
+	cursor: pointer;
+}
+.lang.active{
+	background: rgb(98, 4, 3);
+	-webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.7);
+	box-shadow: inset 0 0 5px rgba(0,0,0,0.7);
+}
+.lang:hover{
+	text-decoration: underline;
+	background: white;
+	color: rgb(98, 4, 3);
+}
+.lang#es{
+	padding-left: 11px;
+	border-radius: 20px 0 0 20px;
+}
+.lang#en{
+	padding-left: 8px;
+	border-radius:  0 20px 20px 0;
+}
+/*------------------------------------------------MEDIA QUERIES*/
+
+
+
+@media screen and (max-width: 1023px) {
+	#logo{
+		width: 200px;
+		margin-top: 20px;
+	}
+	li#prod:hover > #prodSubmenu{
+	display: none;
+}
+	#prodSubmenu{
+		display: none;
+	}
+	#redesZ{
+		display: none;
+	}
+	nav{
+		width: 100%;
+		top: 93%;
+		height: 0px;
+		/*height: 0px;*/
+		/*overflow: hidden;*/
+		
+	}
+	nav.active{
+		height: 205px;
+	}
+	nav ul{
+		background: url(../img/patronComida.png);
+		overflow: hidden;
+		list-style: none;
+		float: none;
+		width: 100%;
+		height: 0;
+		/*transform-origin: left top ;*/
+		-webkit-transition:all  0.5s;
+		-o-transition: all 0.5s ;
+		transition: all 0.5s ;
+		position: absolute;
+		top: 0;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		left: 0;
+	}
+	nav.active > ul{
+		height: 205px;
+		border-bottom: 3px solid rgb(200, 200, 200);
+	}
+	nav ul li{
+		padding: 13px 0;
+		font-size: 17px;
+		width: 100%;
+		text-align: center;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		border-bottom: 1px solid rgba(0,0,0,0.3);
+	}
+	#prod a{
+		display: block;
+	}
+	nav ul li#prod{
+		padding-left: 0;
+		padding: 19px 0 15px 0;
+		position: relative;
+		z-index: 790;
+		height: 55px;
+	}
+	nav ul li#prod:after{
+		content: "";
+		position: absolute;
+		background: url(../img/plecaHolan.png) repeat-x top;
+		height:10px;
+		width: 100%;
+		top: 0;
+		left: 0;
+		z-index: 800;
+	}
+	.btnVreceta{
+		height: 404px;
+	}
+	#bannCentral h3{
+		margin-top: -28px;
+	}
+	.banners{
+		margin-top: 80px;
+	}
+	#menuMovil{
+		display: block;
+	}
+	.btnProducto .texto{
+ 		height: 50%;
+ 		background: rgba(0,0,0,0.7);
+ 	}
+ 	#btnVideoreceta{
+ 		margin: 0 auto 5px auto;
+ 		float: none;
+ 	}
+}
+
+ @media screen and (max-width: 640px){
+ 	
+ 	.btnVreceta{
+ 		min-width: 320px;
+ 		height: 112px;
+ 		background-size: initial;
+ 		background-position: 0% 86%;
+ 		display: inline-block;
+ 		float: none;
+ 	}
+ 	.btnVreceta.chico{
+ 		background-size: initial;
+ 	}
+ 	.banners{
+ 		width: 100%;
+ 		height: 227px;
+ 		float: none;
+ 		margin-top: 0;
+ 		overflow: hidden;
+ 		cursor: pointer;
+ 		-webkit-box-sizing: border-box;
+ 		-moz-box-sizing: border-box;
+ 		box-sizing: border-box;
+ 		padding-top: 20px;
+ 	}
+ 	.banners figure{
+ 		width: 38% !important;
+ 		float: left;
+ 		margin-top: -10px !important;
+ 		left: 0% !important;
+ 		margin-right: 8%;
+ 	}
+ 	.banners .texto{
+ 		float: left;
+ 		width: 50%;
+ 	}
+ 	.banners h3{
+ 		font-size: 1.7em;
+ 	}
+ 	#bannCentral h3{
+ 		margin-top: 0;
+ 	}
+ 	#bannCentral figure{
+ 		top: 0;
+ 		margin-top: 42px;
+
+ 	}
+ 	.btnProducto .texto{
+ 		height: 50%;
+ 		background: rgba(0,0,0,0.5);
+ 	}
+		#btnTodosProductos{
+		font-size: 18px;
+		padding-top: 30px;
+	}
+	#logo{
+		margin: 0 auto;
+	  	left: 0;
+	  	right: 0;
+	}
+	.navegacion {
+	  /* width: 30%; */
+	  display: inline-block;
+	  overflow: hidden;
+	  /* height: 15px; */
+	  border-radius: 0 0 15px 15px;
+	  background: rgb(60,60,60);
+	  font-weight: 200;
+	  padding: 7px 15px 10px 15px;
+	  font-size: 11px;
+	  letter-spacing: 4px;
+	}
+}
+
+@media screen and (max-width: 330px){
+	
+	.btnProducto{
+		width: 100%;
+		padding: 0;
+		margin-bottom: 0;
+	}
+	.btnProducto .texto{
+		width: 100%;
+	}
+	
+	.banners figure{
+		display: none;
+	}
+	.banners .texto{
+		width: 100%;
+		text-align: center;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		padding: 0 3%;
+	}
+}

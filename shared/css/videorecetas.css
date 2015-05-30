@@ -1,0 +1,94 @@
+.vrWrapper{
+	text-align: center;
+}
+.ytSubscribe{
+	overflow: hidden;
+	margin: 0px auto;
+	width: 300px;
+	height: 100px;
+	padding: 8px 20px 15px 20px;
+	display: inline-block;
+	border-left: 2px solid rgb(116, 8, 0);
+	border-right: 2px solid rgb(116, 8, 0);
+	border-bottom: 2px solid rgb(116, 8, 0);
+	border-radius: 0 0 10px 10px;
+	color: #740800;
+	text-align: center;
+	box-shadow: 0 3px 10px rgba(0,0,0,0.5);
+	background: white;
+	position: relative;
+	z-index: 800;
+	transition: 0.2s ease-out;
+}
+.ytSubscribe h2{
+	margin: 0 0 13px 0;
+}
+.vrSection{
+	  position: relative;
+	  top: -99px;
+	  overflow: hidden;
+}
+.titulo h1{
+	background: #E62117;
+}
+
+
+#videorecetasBanner{   /*-------falta este banner------*/
+	background-image: url(../img/productos/bannersTop/bannerChoco.jpg);
+}
+#vrChocolate{   /*-------faltan este banner------*/
+	background-image: url(../img/productos/bannersTop/bannerChoco.jpg);
+}
+#vrEventos{			/*-------faltan este banner------*/
+	background-image: url(../img/productos/bannersTop/bannerChoco.jpg);
+}
+#vrGalletaDeco{			/*-------faltan este banner------*/
+	background-image: url(../img/productos/bannersTop/bannerChoco.jpg);
+}
+#vrGelatinaA{			/*-------faltan este banner------*/
+	background-image: url(../img/productos/bannersTop/bannerChoco.jpg);
+}
+
+/*-----------------------------------------INTERNA DE VIDEORECETAS*/
+.videoCluster{
+	width: 45%;
+	max-width: 400px;
+	display: inline-block;
+	height: 220px;
+	overflow: hidden;
+	border-radius: 0 0 15px 15px;
+	border-top: 4px solid #E62117;
+	margin: 8px;
+	box-shadow: 0 0 5px rgba(0,0,0,0.5)
+}
+.titulo.full h1{
+	width: 100%;
+}
+.video{
+	height: 220px;
+	width: 100%;
+	background: url(../img/loading_spinner.gif)no-repeat center ;
+	-webkit-background-size: 30%;
+	background-size: 30%;
+}
+.tituloVideo{
+	display: none;
+}
+#videoContainer{
+	margin: 40px 0;
+	width: 100%;
+	min-height: 300px;
+	background: url(../img/loading_spinner.gif)no-repeat center ;
+}
+
+
+@media screen and (max-width:641px)  {
+	.vrSection{
+		top: 0;
+	}
+	.videoCluster{
+		width: 95%;
+		min-width: 320px;
+
+	}
+}
