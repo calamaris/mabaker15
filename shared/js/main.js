@@ -85,10 +85,10 @@ function miniatura (nombre) {
   function intervalManager(flag, funcion, tiempo) {
      if(flag){
        intervalo =  setInterval(funcion, tiempo);
-       console.log("++++++interval INICIADO");
+       // console.log("++++++interval INICIADO");
      }else{
       clearInterval(intervalo);
-      console.log("-----interval STOP");
+      // console.log("-----interval STOP");
      }
       
   }
