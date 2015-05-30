@@ -54,7 +54,7 @@ function preload(arrayOfImages) {
          $('<img/>')[0].src = this;
        
      });
-      console.log("done preload");
+      console.log("done preload completo");
  }
 
 function resposiveScript () {
