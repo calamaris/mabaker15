@@ -33,7 +33,7 @@ function responsiveSlider () {
     // console.log("<--------> se activa el responsive");
     // console.log(slidesTotales,"<-- slides totales");}
       $(".slide").css("background-image","");
-      for (var i=0; i<slidesTotales; i++){
+      for (var i=0; i<=slidesTotales; i++){
         // console.log(i,"hola")
         
         var ruta=$("#slide"+Number(i+1)).css("background-image");
