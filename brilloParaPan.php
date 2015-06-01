@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-	<meta name="description" content="Brillo para Pan">
+	<meta name="description" content="Brillo para Pan y Fruta">
 	<meta name="keywords" content="">
-	<title>Brillo para Pan</title>
+	<title>Brillo para Pan y Fruta</title>
 	<?php include("includes/head.php"); ?>
 	<link rel="stylesheet" href="shared/css/productoBase.css">
 </head>
@@ -25,7 +25,7 @@
 			<div class="iw">
 				<div class="navegacionWrapp">
 					<div class="navegacion">
-						<a href="productos.php">Productos</a> > <a href="catalogoProductos.php">Todos los productos</a> > <a href="#">Brillo para Pan</a>
+						<a href="productos.php">Productos</a> > <a href="catalogoProductos.php">Todos los productos</a> > <a href="#">Brillo para Pan y Fruta</a>
 					</div>
 				</div>
 
@@ -40,7 +40,7 @@
 
 		<script>
 
-			producto = "Brillo para Pan";
+			producto = "Brillo para Pan y Fruta";
 			
 			
 

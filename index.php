@@ -16,34 +16,34 @@
 		<div id="fixHeader" data-0="height:154px" data-300="height:59px"></div>
 		<section id="slider">
 			<div id="sliderWrapper" >
-				<div class="slide" id="slide1"></div>
-				<div class="slide" id="slide2"></div>
-				<div class="slide" id="slide3"></div>
-				<div class="slide" id="slide4"></div>
-				<div class="slide" id="slide5"></div>
-				<div class="slide" id="slide6"></div>
-				<div class="slide" id="slide7"></div>
-				<div class="slide" id="slide8"></div>
-				<div class="slide" id="slide9"></div>
-				<div class="slide" id="slide10"></div>
-				<div class="slide" id="slide11"></div>	
-				<div class="slide" id="slide12"></div>
-				<div class="slide" id="slide13"></div>
-				<div class="slide" id="slide14"></div>
-				<div class="slide" id="slide15"></div>
-				<div class="slide" id="slide16"></div>
-				<div class="slide" id="slide17"></div>
-				<div class="slide" id="slide18"></div>
-				<div class="slide" id="slide19"></div>
-				<div class="slide" id="slide20"></div>
-				<div class="slide" id="slide21"></div>
-				<div class="slide" id="slide22"></div>
-				<div class="slide" id="slide23"></div>
-				<div class="slide" id="slide24"></div>
-				<div class="slide" id="slide25"></div>
-				<div class="slide" id="slide26"></div>
-				<div class="slide" id="slide27"></div>
-				<div class="slide" id="slide28"></div>
+				<a href="https://mexipan.com.mx/g15/"><div class="slide" id="slide1"></div></a>
+				<a href="endurecedorFondant.php"><div class="slide" id="slide2"></div></a>
+				<a href="colorChocolate.php"><div class="slide" id="slide3"></div></a>
+				<a href="colorEnPolvo.php"><div class="slide" id="slide4"></div></a>
+				<a href="desmoldanteSpray.php"><div class="slide" id="slide5"></div></a>
+				<a href="diamantina7g.php"><div class="slide" id="slide6"></div></a>
+				<a href="FlanEnPolvo.php"><div class="slide" id="slide7"></div></a>
+				<a href="fondant.php"><div class="slide" id="slide8"></div></a>
+				<a href="glicerina.php"><div class="slide" id="slide9"></div></a>
+				<a href="glitter.php"><div class="slide" id="slide10"></div></a>
+				<a href="jellyColor.php"><div class="slide" id="slide11"></div></a>
+				<a href="liquidColor.php"><div class="slide" id="slide12"></div></a>
+				<a href="matizadores.php"><div class="slide" id="slide13"></div></a>
+				<a href="merengue.php"><div class="slide" id="slide14"></div></a>
+				<a href="mermeladasHorneables.php"><div class="slide" id="slide15"></div></a>
+				<a href="pegamentoFondant.php"><div class="slide" id="slide16"></div></a>
+				<a href="pintaColor.php"><div class="slide" id="slide17"></div></a>
+				<a href="pintaColorDiamantado.php"><div class="slide" id="slide18"></div></a>
+				<a href="pintaColorMetalico.php"><div class="slide" id="slide19"></div></a>
+				<a href="plumones.php"><div class="slide" id="slide20"></div></a>
+				<a href="royalIcing.php"><div class="slide" id="slide21"></div></a>
+				<a href="saborGanache.php"><div class="slide" id="slide22"></div></a>
+				<a href="saborGelatina.php"><div class="slide" id="slide23"></div></a>
+				<a href="saborPan.php"><div class="slide" id="slide24"></div></a>
+				<a href=".php"><div class="slide" id="slide25"></div></a>
+				<a href="sprayColor.php"><div class="slide" id="slide26"></div></a>
+				<a href="vainillaOscura.php"><div class="slide" id="slide27"></div></a>
+				<a href="vainillaOscura.php"><div class="slide" id="slide28"></div></a>
 			</div>
 			<div id="flechaIzq" onclick="mueve('izq')"></div>
 			<div id="flechaDer" onclick="mueve('der')"></div>

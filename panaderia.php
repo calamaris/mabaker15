@@ -43,10 +43,10 @@
 									<img src="shared/img/productos/productos320/BrilloPan.png" width="100%"  />
 									<div class="texto">
 										<div class="texto1">
-											Brillo para Pan
+											Brillo para 
 										</div>
 										<div class="texto2">
-											
+											Pan y Fruta
 										</div>
 									</div>
 								</div> 

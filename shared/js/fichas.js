@@ -131,7 +131,7 @@ var Productos ={
             /* --------------- producto ---------------  */
 
                       {
-                "nombre": ["Brillo para Pan" , "Fruit and Bread Gloss"],
+                "nombre": ["Brillo para Pan y Fruta" , "Fruit and Bread Gloss"],
 
                 "subtitulo" : ["", ""],
 
