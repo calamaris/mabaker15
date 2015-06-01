@@ -42,7 +42,7 @@
 
 			producto = "Cobertura de Chocolate";
 			
-			prodInit();
+			
 
 		</script>
 

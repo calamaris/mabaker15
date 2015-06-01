@@ -147,7 +147,7 @@ var Productos ={
 
                 "imagen": "BrilloParaPan.png",
 
-                "vid": [{"categoria" : "videorecetas.php"},[]], 
+                "vid": [{"categoria" : "videorecetas.php"},["jsipGaV1TlQ"]], 
 
                 "pdf": [
                         [] ,
@@ -210,7 +210,7 @@ var Productos ={
 
                 "imagen": "CoberturaDona.png",
 
-                "vid": [{"categoria" : "videorecetas.php"},[]], 
+                "vid": [{"categoria" : "videorecetas.php"},["n2exSQCwrQo"]], 
 
                 "pdf": [
                         [] ,
@@ -242,7 +242,7 @@ var Productos ={
 
                 "imagen": "CoberturaChocolate.png",
 
-                "vid": [{"categoria" : "videorecetas.php"},[]], 
+                "vid": [{"categoria" : "videorecetas.php"},["p-KFdW__sfs"]], 
 
                 "pdf": [
                         [] ,
@@ -274,7 +274,7 @@ var Productos ={
 
                 "imagen": "CoberturaTamarindo.png",
 
-                "vid": [{"categoria" : "videorecetas.php"},[]], 
+                "vid": [{"categoria" : "videorecetas.php"},["yhZ1Senlnck","mp_VvOfCZco","qs22zl80Wo8"]], 
 
                 "pdf": [
                         [{"ruta":"coberturaTama.pdf","thumb":"coberturaTama.png"}] ,
@@ -306,7 +306,7 @@ var Productos ={
 
                 "imagen": "CobeturaChiclosa.png",
 
-                "vid": [{"categoria" : "videorecetas.php"},[]], 
+                "vid": [{"categoria" : "videorecetas.php"},["DmzYkdKEsAg"]], 
 
                 "pdf": [
                         [{"ruta":"Chiclosa.pdf","thumb":"Chiclosa.png"}] ,
@@ -369,7 +369,7 @@ var Productos ={
 
                 "imagen": "ColorChocolate.png",
 
-                "vid": [{"categoria" : "videorecetas.php"},[]], 
+                "vid": [{"categoria" : "videorecetas.php"},["Hi5Ud9zWiF4"]], 
 
                 "pdf": [
                         [] ,
@@ -529,7 +529,7 @@ var Productos ={
 
                 "imagen": "Diamantina6g.png",
 
-                "vid": [{"categoria" : "videorecetas.php"},["b4G4TXwyvTU]","iY001HXjV2o"]], 
+                "vid": [{"categoria" : "videorecetas.php"},["b4G4TXwyvTU]","iY001HXjV2o","lx76HAkTVBo","G6RJLfXZ_WQ"]], 
 
                 "pdf": [
                         [] ,
@@ -561,7 +561,7 @@ var Productos ={
 
                 "imagen": "Diamantina7g.png",
 
-                "vid": [{"categoria" : "videorecetas.php"},["b4G4TXwyvTU]","iY001HXjV2o"]], 
+                "vid": [{"categoria" : "videorecetas.php"},["b4G4TXwyvTU]","iY001HXjV2o","lx76HAkTVBo","G6RJLfXZ_WQ"]], 
 
                 "pdf": [
                         [] ,
@@ -657,7 +657,7 @@ var Productos ={
 
                 "imagen": "Fondant.png",
 
-                "vid": [{"categoria" : "videorecetas.php"},["wjA96Iqwh6w","iY001HXjV2o"]], 
+                "vid": [{"categoria" : "videorecetas.php"},["wjA96Iqwh6w","iY001HXjV2o","w_StTNGlc3Q"]], 
 
                 "pdf": [
                         [] ,
@@ -689,7 +689,7 @@ var Productos ={
 
                 "imagen": "FuenteDeChocolate.png",
 
-                "vid": [{"categoria" : "videorecetas.php"},[]], 
+                "vid": [{"categoria" : "videorecetas.php"},["p-KFdW__sfs"]], 
 
                 "pdf": [
                         [] ,
@@ -1801,7 +1801,7 @@ var Productos ={
 
                 "imagen": "VainillaOscura.png",
 
-                "vid": [{"categoria" : "videorecetas.php"},["iY001HXjV2o"]], 
+                "vid": [{"categoria" : "videorecetas.php"},["iY001HXjV2o","Bg_1YevuueE"]], 
 
                 "pdf": [
                         [] ,

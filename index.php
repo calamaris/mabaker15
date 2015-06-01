@@ -16,6 +16,7 @@
 		<div id="fixHeader" data-0="height:154px" data-300="height:59px"></div>
 		<section id="slider">
 			<div id="sliderWrapper" >
+			    <a href="http://www.expopan.com/"><div class="slide" id="slide29"></div></a>
 				<a href="https://mexipan.com.mx/g15/"><div class="slide" id="slide1"></div></a>
 				<a href="endurecedorFondant.php"><div class="slide" id="slide2"></div></a>
 				<a href="colorChocolate.php"><div class="slide" id="slide3"></div></a>
