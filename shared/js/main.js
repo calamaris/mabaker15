@@ -41,7 +41,7 @@ function responsiveSlider () {
         var imgName=ruta.substr(ruta.indexOf("slider")+7);
         //console.log(imgName);
         var nuevaRuta=rutaResp+imgName;
-        //console.log(nuevaRuta);
+        console.log(nuevaRuta);
         $("#slide"+(i+1)).css("background-image",nuevaRuta);
       }
   }else{

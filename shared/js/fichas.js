@@ -376,7 +376,7 @@ var Productos ={
                         [] 
                 ],
 
-                "colores" : ["ColorChocolate.jpg"], 
+                "colores" : ["colorChocolate.jpg"], 
 
                 "categoria" : ["chocolate"],
 
