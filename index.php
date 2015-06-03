@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-	<meta name="description" content="Ma baker and chef">
-	<meta name="keywords" content="">
+	<meta name="description" content="Fabricación, comercialización, importación y exportación de productos para la industria panadera y repostera principalmente, además de brindar a otros segmentos el diseño de sus colores y sabores de alta calidad como materias primas para sus productos terminados.">
+	<meta name="keywords" content="Fabricación, comercialización, importación y exportación de productos para la industria panadera y repostera principalmente, además de brindar a otros segmentos el diseño de sus colores y sabores de alta calidad como materias primas para sus productos terminados.">
 	<title>Ma Baker and Chef</title>
 	<?php include("includes/head.php"); ?>
 	<!-- <link rel='alternate' hreflang='es' href='http://mabaker.com/us-es' /> -->
@@ -51,18 +51,20 @@
 		</section>
 		<section id="seccion1"> <!-- Tres Banners -->
 			<article class="iw">
-				<div class="banners" id="bannIzquierdo">
-					<figure>
-						<img src="shared/img/banner1.png" width="120%" alt="banner1.jpg" />
-					</figure>
-					<div class="texto">
-						<h3>
-							GALERÍA
-						</h3>
-						<div class="rombos"></div>
-						<p> ¡Deja volar tu imaginación! Encuentra tu estilo y crea hermosos proyectos utilizando los productos de Ma Baker and Chef.</p>
+				<a href="galeria.php">
+					<div class="banners" id="bannIzquierdo">
+						<figure>
+							<img src="shared/img/banner1.png" width="120%" alt="banner1.jpg" />
+						</figure>
+						<div class="texto">
+							<h3>
+								GALERÍA
+							</h3>
+							<div class="rombos"></div>
+							<p> ¡Deja volar tu imaginación! Encuentra tu estilo y crea hermosos proyectos utilizando los productos de Ma Baker and Chef.</p>
+						</div>
 					</div>
-				</div>
+				</a>
 				<a href="catalogoProductos.php">
 					<div class="banners" id="bannCentral">
 						<figure>

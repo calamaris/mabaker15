@@ -106,7 +106,5 @@
 		<?php include("includes/footer.php"); ?>
 	
 	</div> <!-- skrollrBody -->
-	<script src="shared/js/main.js"></script>
-	<script src="shared/js/skrollr.js"></script>
 </body>
 </html>
