@@ -37,7 +37,7 @@
 					
 						<div id="contenedorProds">
 
-						<!--<a href="moldesPolicarbonato.php">
+						<a href="moldesPolicarbonato.php">
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/MoldePoli.png" width="100%"  />
 									<div class="texto">
@@ -89,7 +89,7 @@
 									</div>
 								</div> 
 							</a> <!-- producto -->
-							<!--<a href="shablones.php">
+							<a href="shablones.php">
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/Shablones.png" width="100%"  />
 									<div class="texto">
