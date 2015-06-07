@@ -1038,7 +1038,7 @@ var Productos ={
 
                 "imagen": "MoldesPolicarbonato.png",
 
-                "vid": [{"categoria" : "videorecetas.php"},["NSc6dhmt6Ts","b4G4TXwyvTU","Hi5Ud9zWiF4"]], 
+                "vid": [{"categoria" : "videorecetas.php"},["NSc6dhmt6Ts","b4G4TXwyvTU","Hi5Ud9zWiF4","IUbrPbAiNAg"]], 
 
                 "pdf": [
                         [] ,
@@ -1098,10 +1098,11 @@ var Productos ={
                   "<br>",
                   ""
                 ],
+                  
 
                 "imagen": "Transfer.png",
 
-                "vid": [{"categoria" : "videorecetas.php"},["Hi5Ud9zWiF4","b4G4TXwyvTU","NSc6dhmt6Ts"]], 
+                "vid": [{"categoria" : "videorecetas.php"},["Hi5Ud9zWiF4","b4G4TXwyvTU","NSc6dhmt6Ts","Gd1iVmj-Nw","IUbrPbAiNAg"]], 
 
                 "pdf": [
                         [{"ruta":"transfer_para_chocolate_2014.pdf","thumb":"transfer_para_chocolate_2014.png"}] ,
@@ -1418,7 +1419,7 @@ var Productos ={
 
                 "imagen": "RellenoGanache.png",
 
-                "vid": [{"categoria" : "videorecetas.php"},["Hi5Ud9zWiF4"]], 
+                "vid": [{"categoria" : "videorecetas.php"},["Hi5Ud9zWiF4","-Gd1iVmj-Nw"]], 
 
                 "pdf": [
                         [] ,
@@ -1514,7 +1515,7 @@ var Productos ={
 
                 "imagen": "SaborGanache.png",
 
-                "vid": [{"categoria" : "videorecetas.php"},[]], 
+                "vid": [{"categoria" : "videorecetas.php"},["7pH8ezH1i1Q","IUbrPbAiNAg"]], 
 
                 "pdf": [
                         [{"ruta":"saborGanache.pdf","thumb":"saborGanache.png"}] ,
@@ -1578,7 +1579,7 @@ var Productos ={
 
                 "imagen": "shablones.png",
 
-                "vid": [{"categoria" : "videorecetas.php"},["Hi5Ud9zWiF4","Ktj0r2wHu6Q","b4G4TXwyvTU"]], 
+                "vid": [{"categoria" : "videorecetas.php"},["Hi5Ud9zWiF4","Ktj0r2wHu6Q","b4G4TXwyvTU","KB_7YkOWNLU"]], 
 
                 "pdf": [
                         [{"ruta":"shablones.pdf","thumb":"shablones.png"}] ,
