@@ -6,7 +6,7 @@
 	<title>Ma Baker and Chef</title>
 	<?php include("includes/head.php"); ?>
 	<!-- <link rel='alternate' hreflang='es' href='http://mabaker.com/us-es' /> -->
-	<link rel="image_src" href="shared/img/Facebook/logo.jpg">
+	<!-- <link rel="image_src"> -->
 </head>
 <body >
 
