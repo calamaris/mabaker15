@@ -16,9 +16,7 @@
 		<nav>
 			<ul>
 				<a href="productos.php">
-					<li id="prod">
-					
-						Productos
+					<li id="prod">Productos
 						<div id="prodSubmenu">
 							<ul>
 								<a href="catalogoProductos.php"><li onmouseover="miniatura('productos')"><strong>Catálogo de productos</strong></li></a>
@@ -34,15 +32,14 @@
 								<img src="shared/img/miniaturas/pastel.png" width="200" alt="">
 							</div>
 						</div>
-					
 					</li>
 				</a>
-				<a href="empresa.php"><li>Empresa</li></a>
+				<a href="empresa.php"><li id="empresa">Empresa</li></a>
 				<a href="videorecetas.php">
-					<li>Videorecetas</li>
+					<li id="videorecetas">Videorecetas</li>
 				</a>
 				<a href="contacto.php">
-					<li>Contacto</li>
+					<li id="contacto">Contacto</li>
 				</a>
 				
 			</ul>

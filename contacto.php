@@ -27,7 +27,7 @@
 							</span>
 							<span class="dato">
 								Tels.: (52 55)43.35 03.41 al 44 <br>
-								TEL: 01 800 2630 300
+								TEL: 01 800 2630 500
 							</span>
 						</div>
 					</a>

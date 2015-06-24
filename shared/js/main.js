@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  window.localStorage.setItem('lang',0);
+  // window.localStorage.setItem('lang',0);
   checaIdioma ()
 	calcula();
   intervalManager(true, mueveAuto, tiempo);
