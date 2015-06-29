@@ -1,6 +1,7 @@
 $(document).ready(function(){
   // window.localStorage.setItem('lang',0);
-  checaIdioma ()
+  checaIdioma ();
+  cambiaIdioma ();
 	calcula();
   intervalManager(true, mueveAuto, tiempo);
   resposiveScript();
@@ -344,16 +345,12 @@ function pintaVideos (){
 
 // --------------------------------------------- CONTROL DE IDIOMA
 
-
-function guardaIdiomaInicial (idioma) {
-  
-}
 var idioma, urlHash;
 function checaIdioma () {
   urlHash=window.location.hash;
   lang=window.localStorage.getItem("lang");
   if (urlHash.length <= 0 && lang == null) {
-    // promptIdioma();
+    promptIdioma();
     console.log("no hay idioma seleccionado aun");
   }else if (urlHash.length>0) {
     idioma=urlHash.substring(6);
@@ -384,8 +381,10 @@ function pintaHash (){
 }
 
 function promptIdioma(){
-    // abrir pop para obtener idioma
-    // 
+    $("#idiomaPrompt").addClass("active");
+    $(".btnIdiomaP").click(function(){
+      $("#idiomaPrompt").removeClass("active");
+    })
         
 }
 function selecIdioma(idioma){

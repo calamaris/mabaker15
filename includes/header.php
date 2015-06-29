@@ -16,17 +16,17 @@
 		<nav>
 			<ul>
 				<a href="productos.php">
-					<li id="prod">Productos
+					<li id="prod"><span class="tProducto">Productos</span>
 						<div id="prodSubmenu">
 							<ul>
-								<a href="catalogoProductos.php"><li onmouseover="miniatura('productos')"><strong>Catálogo de productos</strong></li></a>
-								<a href="chocolate.php"><li onmouseover="miniatura('chocolate')">Chocolate</li></a>
-								<a href="seccionFondant.php"><li onmouseover="miniatura('fondant')">Fondant</li></a>
-								<a href="gelatinaArtistica.php"><li onmouseover="miniatura('gelatina')">Gelatina artística</li></a>
-								<a href="galletasDecoradas.php"><li onmouseover="miniatura('galletas')">Galletas decoradas</li></a>
-								<a href="bombones.php"><li onmouseover="miniatura('bombon')">Bombón</li></a>
-								<a href="pastelCrema.php"><li onmouseover="miniatura('pastel')">Pastel de crema</li></a>
-								<a href="panaderia.php"><li onmouseover="miniatura('panaderia')">Panadería</li></a>					
+								<a href="catalogoProductos.php"><li onmouseover="miniatura('productos')"><strong class="tCatalogo">Catálogo de productos</strong></li></a>
+								<a href="chocolate.php"><li onmouseover="miniatura('chocolate')" class="tChoco">Chocolate</li></a>
+								<a href="seccionFondant.php"><li onmouseover="miniatura('fondant')" class="tFondant">Fondant</li></a>
+								<a href="gelatinaArtistica.php"><li onmouseover="miniatura('gelatina')" class="tgelatina">Gelatina artística</li></a>
+								<a href="galletasDecoradas.php"><li onmouseover="miniatura('galletas')" class="tGalleta">Galletas decoradas</li></a>
+								<a href="bombones.php"><li onmouseover="miniatura('bombon')" class="tBombon">Bombón</li></a>
+								<a href="pastelCrema.php"><li onmouseover="miniatura('pastel')" class="tPastel">Pastel de crema</li></a>
+								<a href="panaderia.php"><li onmouseover="miniatura('panaderia')" class="tPanaderia">Panadería</li></a>					
 							</ul>
 							<div id="miniaturaSmenu">
 								<img src="shared/img/miniaturas/pastel.png" width="200" alt="">

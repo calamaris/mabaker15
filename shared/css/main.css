@@ -694,6 +694,78 @@ footer a{
 	padding-left: 8px;
 	border-radius:  0 20px 20px 0;
 }
+#idiomaPrompt{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: rgba(0,0,0,0.5);
+	z-index: 900;
+	display: none;
+}
+#idiomaPrompt.active{
+	display: block;
+}
+#iPop{
+	position: relative;
+	top: 10%;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	width: 98%;
+	height: 150px;
+	max-width: 400px;
+	background: white;
+	border-radius: 15px;
+	padding: 10px 10px 10px 160px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 1;
+	text-align: center; 
+	color: gray;
+}
+#iPop strong{
+	color: #6F0F12;
+}
+#iPop span{
+	font-weight: 400;
+}
+#iPop>img{
+	position: absolute;
+	top: 30%;
+	left: 0;
+}
+#langPromt{
+	/*width: 80%;*/
+	background: rgb(222, 30, 36);
+	color: white;
+	border-radius: 40px;
+	display: inline-block;
+	margin: 20px auto;
+	overflow: hidden;
+}
+.btnIdiomaP{
+	float: left;
+	width: 50%;
+	text-align: center;
+	font-size: 14px;
+	padding: 9px 15px 9px 15px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	cursor: pointer;
+}
+.btnIdiomaP:hover{
+	background: rgb(107, 11, 14);
+	box-shadow: inset 0 0 5px rgba(0,0,0,0.5)
+}
+.iEs{
+	border-right: 1px solid rgba(0,0,0,0.5);
+}
 /*------------------------------------------------MEDIA QUERIES*/
 
 
@@ -798,7 +870,21 @@ footer a{
 }
 
  @media screen and (max-width: 640px){
- 	
+ 	#iPop{
+	    padding: 1%;
+ 	}
+ 	#langPromt {
+ 	    width: 57%;
+ 	    display: block;
+ 	    position: relative;
+ 	    z-index: 910;
+ 	}
+ 	#iPop>img{
+ 		position: absolute;
+ 		top: 60%;
+ 		left: 0;
+ 		width: 40%;
+ 	}
  	.btnVreceta{
  		min-width: 320px;
  		height: 112px;
