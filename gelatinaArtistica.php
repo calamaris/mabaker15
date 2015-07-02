@@ -24,12 +24,12 @@
 			<div class="iw">
 				<div class="navegacionWrapp">
 					<div class="navegacion">
-						<a href="productos.php">Productos</a> > <a href="gelatinaArtistica.php">Gelatina Artistica</a>  
+						<a href="productos.php" class="tProducto">Productos</a> > <a href="gelatinaArtistica.php" class="tgelatina">Gelatina Artistica</a>  
 					</div>
 				</div>
 				<div class="titulo">
-					<h1>Gelatina</h1>
-					<h2>Artistica</h2>
+					<h1 class="tGelatinaS">Gelatina</h1>
+					<h2 class="tGelatinaS2">Artistica</h2>
 
 					
 				</div>
@@ -55,10 +55,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/PintaColorDiamantado.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tPintaColorD">
 											PintaColor
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tPintaColorD2">
 											Diamantado
 										</div>
 									</div>
@@ -68,10 +68,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/PintaColorMetallico.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tPintaColorM">
 											PintaColor
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tPintaColorM2">
 											Metalico
 										</div>
 									</div>
@@ -81,7 +81,7 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/Matizadores.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tMatizadores">
 											Matizadores
 										</div>
 										<div class="texto2">
@@ -94,10 +94,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/Diamantina6g.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tDiamantina6">
 											Diamantina
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tDiamantina62">
 										6g
 											
 										</div>
@@ -108,10 +108,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/Diamantina7g.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tDiamantina7">
 											Diamantina
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tDiamantina72">
 										7g
 											
 										</div>
@@ -122,10 +122,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/DesmoldanteSpray.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tDesmoldante">
 											Desmoldante
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tDesmoldante2">
 										en Spray
 											
 										</div>
@@ -136,10 +136,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/Plumones.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tPlumones">
 											Plumones
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tPlumones2">
 											Comestibles
 										</div>
 									</div>
@@ -176,10 +176,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/SaborGelatina.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="">
 											Sabor 
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="">
 											para Gelatina
 										</div>
 									</div>

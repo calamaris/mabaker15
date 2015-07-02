@@ -24,12 +24,12 @@
 			<div class="iw">
 				<div class="navegacionWrapp">
 					<div class="navegacion">
-						<a href="productos.php">Productos</a> > <a href="bombones.php">Bombón</a> 
+						<a href="productos.php" class="tProducto">Productos</a> > <a href="bombones.php" class="tBombon">Bombón</a> 
 					</div>
 				</div>
 				<div class="titulo">
-					<h1>Bombón</h1>
-					<h2>Malvaviscos</h2>
+					<h1 class="tBombonS">Bombón</h1>
+					<h2 class="tBombonS2">Malvaviscos</h2>
 
 					
 				</div>
@@ -42,7 +42,7 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/Matizadores.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tMatizadores">
 											Matizadores
 										</div>
 										<div class="texto2">
@@ -55,10 +55,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/Diamantina6g.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tDiamantina6">
 											Diamantina
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tDiamantina62">
 										6g
 											
 										</div>
@@ -69,10 +69,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/Diamantina7g.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tDiamantina7">
 											Diamantina
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tDiamantina72">
 										7g
 											
 										</div>
@@ -83,10 +83,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/Plumones.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tPlumones">
 											Plumones
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tPlumones2">
 											Comestibles
 										</div>
 									</div>
@@ -109,10 +109,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/Cortadores.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tCortadores">
 											Cortadores
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tCortadores2">
 											
 										</div>
 									</div>
@@ -122,10 +122,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/PegamentoFondant.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tPegamento">
 											Pegamento
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tPegamento2">
 											para Fondant
 										</div>
 									</div>
@@ -135,10 +135,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/PerlasDiamantadas.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tPerlasD">
 											Perlas
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tPerlasD2">
 											Diamantadas
 										</div>
 									</div>
@@ -148,10 +148,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/PerlasNacaradas.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tPerlasN">
 											Perlas
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tPerlasN2">
 											Nacaradas
 										</div>
 									</div>
@@ -174,10 +174,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/BrilloPan.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tBrillo">
 											Brillo para 
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tBrillo2">
 											Pan y Fruta
 										</div>
 									</div>
@@ -201,10 +201,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/PintaColorDiamantado.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tPintaColorD">
 											PintaColor
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tPintaColorD2">
 											Diamantado
 										</div>
 									</div>
@@ -214,10 +214,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/PintaColorMetallico.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tPintaColorM">
 											PintaColor
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tPintaColorM2">
 											Metalico
 										</div>
 									</div>
@@ -227,10 +227,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/CoberturaChiclosa.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tCoberturaChi">
 											Cobertura 
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tCoberturaChi2">
 											Chiclosa
 										</div>
 									</div>

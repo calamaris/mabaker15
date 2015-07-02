@@ -58,11 +58,11 @@
 							<img src="shared/img/banner1.png" width="120%" alt="banner1.jpg" />
 						</figure>
 						<div class="texto">
-							<h3>
+							<h3 class="tGaleria">
 								GALERÍA
 							</h3>
 							<div class="rombos"></div>
-							<p> ¡Deja volar tu imaginación! Encuentra tu estilo y crea hermosos proyectos utilizando los productos de Ma Baker and Chef.</p>
+							<p class="tGaleriaT"> ¡Deja volar tu imaginación! Encuentra tu estilo y crea hermosos proyectos utilizando los productos de Ma Baker and Chef.</p>
 						</div>
 					</div>
 				</a>
@@ -72,11 +72,11 @@
 							<img src="shared/img/banner2.png" width="120%" alt="banner2.png" />
 						</figure>
 						<div class="texto">
-							<h3>
+							<h3 class="tTodosProductos">
 								TODOS LOS PRODUCTOS
 							</h3>
 							<div class="rombos"></div>
-							<p> En Ma Baker and Chef encontrarás una amplia gama de productos y colores para darle un toque único a todas tus creaciones.</p>
+							<p class="tTodosProductosT"> En Ma Baker and Chef encontrarás una amplia gama de productos y colores para darle un toque único a todas tus creaciones.</p>
 						</div>
 					</div>
 				</a>
@@ -86,11 +86,11 @@
 						<img src="shared/img/Banner3.png" width="120%" alt="Banner3.png" />
 					</figure>
 					<div class="texto">
-						<h3>
+						<h3 class="tContactoB">
 							CONTACTO
 						</h3>
 						<div class="rombos"></div>
-						<p>¿Tienes alguna duda o sugerencia? Rellena el formulario con tus inquietudes, y te responderemos a la brevedad.</p>
+						<p class="tContactoT">¿Tienes alguna duda o sugerencia? Rellena el formulario con tus inquietudes, y te responderemos a la brevedad.</p>
 					</div>
 				</div>
 				</a>
@@ -108,7 +108,7 @@
 								<div class="texto1">
 									Chocolate
 								</div>
-								<div class="texto2">
+								<div class="texto2"> 
 									BOMBONERIA
 								</div>
 							</div>

@@ -24,12 +24,12 @@
 			<div class="iw">
 				<div class="navegacionWrapp">
 					<div class="navegacion">
-						<a href="productos.php">Productos</a> > <!-- <a href="chocolate.php">Chocolates</a> > -->
+						<a href="productos.php" class="tProducto">Productos</a> > <!-- <a href="chocolate.php">Chocolates</a> > -->
 					</div>
 				</div>
 				<div class="titulo ">
-					<h1 class="homeProductos">Productos</h1>
-					<h2 class="homeProductos">Encuentra la gama de productos necesarios por categoria</h2>
+					<h1 class="homeProductos" id="tProducto">Productos</h1>
+					<h2 class="homeProductos" id="tProductoTexto">Encuentra la gama de productos necesarios por categoria</h2>
 
 					
 				</div>

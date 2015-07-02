@@ -32,7 +32,7 @@
 
 					<strong>Ma Baker and Chef</strong> tiene el compromiso con sus clientes de ofrecerles su tecnología para realzar sus productos haciéndolos más atractivos a la vista y al gusto con el objetivo de lograr expandir sus negocios.
 				</p>
-				<h2 class="fullBg">« OBJETIVOS » </h2>
+				<h2 class="fullBg" id="tObjetivo">« OBJETIVOS » </h2>
 				<p class="txt" id="simple1">
 					Ofrecer sus productos a empresas y negocios que se desarrollan en el mercado de la repostería, pastelería y panadería, con el fin de facilitar de forma integral el desempeño de las operaciones de nuestros clientes. Con capacidad de respuesta para atender eficazmente a todo requerimiento, impulsando el desarrollo de nuestros clientes y aportando crecimiento a la industria.
 				</p>
@@ -43,8 +43,8 @@
 				</p>
 
 				<div class="txt" id="mision">
-					<h2 class="tituloB"> « MISIÓN » </h2>
-					Apoyar a las empresas y negocios en la proyección y promoción de sus productos y en el crecimiento de sus servicios, así mismo ser promotores del crecimiento permanente de las empresas y negocios, participando conjuntamente en el desarrollo de conceptos e ideas creativas y funcionales.
+					<h2 class="tituloB" id="tMision"> « MISIÓN » </h2>
+					<p class="tMisionTxt">Apoyar a las empresas y negocios en la proyección y promoción de sus productos y en el crecimiento de sus servicios, así mismo ser promotores del crecimiento permanente de las empresas y negocios, participando conjuntamente en el desarrollo de conceptos e ideas creativas y funcionales.</p>
 				</div>
 				
 			</div>

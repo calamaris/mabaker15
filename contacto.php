@@ -16,8 +16,8 @@
 		
 		<section class="topBanner" id="contacto">
 			<div class="iw">
-				<h1>Contacto</h1>
-				<h2>¿Buscas <strong>Sabor</strong> y <strong>Color</strong> <br> <strong>¡Contactanos!</strong></h2>
+				<h1 class="tContactoB">Contacto</h1>
+				<h2 class="tFrase">¿Buscas <strong>Sabor</strong> y <strong>Color?</strong> <br> <strong>¡Contactanos!</strong></h2>
 
 				<div class="zonaDatosC">
 					<a href="#">
@@ -47,43 +47,43 @@
 			<section>
 				<div class="iw">
 					<article class="zona formulario">
-						<p class="txt">
+						<p class="txt" id="tFormulario">
 							A continuación le presentamos un formulario de contacto con el cual podrá enviarnos sus datos y con mucho gusto nos contactaremos con usted a la brevedad
 						</p>
 						<div id="formZone">
 							<form name="fvalida" id="formaFormat" method="get" enctype="application/x-www-form-urlencoded" action="recibe.php" target="_self">
-								<label for="nombre">nombre y apellido</label>
+								<label for="nombre" class="tNombre">nombre y apellido</label>
 								<input type="text" name="nombre" class="input">
 								<div class="medioInput rigthPadd">
-									<label for="ciudad">ciudad</label>
+									<label for="ciudad" class="tCiudad">ciudad</label>
 									<input type="text" name="ciudad" class="input">
 								</div>
 								<div class="medioInput">
-									<label for="estado">estado</label>
+									<label for="estado" class="tEstado">estado</label>
 									<input type="text" name="estado" class="input">
 								</div>
 								<div class="tresCuartosIn rigthPadd">
-									<label for="pais" class="label2">pais</label>
+									<label for="pais" class="label2" id="tPais">pais</label>
 									<input type="text" name="pais" class="input">
 								</div>
 								<div class="unCuartoIn">
-									<label for="codigoPostal" class="label2">C.P.</label>
+									<label for="codigoPostal" class="label2" id="tCP">C.P.</label>
 									<input type="text" name="codigoPostal" class="input">
 								</div>
 								<div class="tresCuartosIn rigthPadd">
-									<label for="correo">correo</label>
+									<label for="correo" class="tCorreo">correo</label>
 									<input type="text" name="correo" class="input">
 								</div>
 							
 								
 								<div id="radioZone" class="unCuartoIn">
-									<label for="atencion">Atencion</label>
-									<input type="radio" name="atencion" value="distribuidor">Distribuidor  <br>
-									<input type="radio" name="atencion" value="mayorista">Mayorista  <br>
-									<input type="radio" name="atencion" value="publico">Publico <br>
-									<input type="radio" name="atencion" value="otro">Otro 
+									<label for="atencion" id="tAtencion">Atencion</label>
+									<input type="radio" name="atencion" value="distribuidor" id="tDistribuidor">Distribuidor  <br>
+									<input type="radio" name="atencion" value="mayorista" id="tMayorista">Mayorista  <br>
+									<input type="radio" name="atencion" value="publico" id="tPublico">Publico <br>
+									<input type="radio" name="atencion" value="otro" id="tOtro">Otro 
 								</div>
-								<label for="comentario">Comentarios</label>
+								<label for="comentario" id="tComentarios">Comentarios</label>
 								<textarea name="" id="" cols="30" rows="10" class="input"></textarea>
 								<input type="submit" name="submit" id="submitBtn">
 							</form>

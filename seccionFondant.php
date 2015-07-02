@@ -24,7 +24,7 @@
 			<div class="iw">
 				<div class="navegacionWrapp">
 					<div class="navegacion">
-						<a href="productos.php">Productos</a> > <a href="seccionFondant.php">Fondant</a>  
+						<a href="productos.php" class="tProducto">Productos</a> > <a href="seccionFondant.php">Fondant</a>  
 					</div>
 				</div>
 				<div class="titulo">
@@ -42,7 +42,7 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/Matizadores.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tMatizadores">
 											Matizadores
 										</div>
 										<div class="texto2">
@@ -55,10 +55,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/Diamantina6g.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tDiamantina6">
 											Diamantina
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tDiamantina62">
 										6g
 											
 										</div>
@@ -69,10 +69,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/Diamantina7g.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tDiamantina7">
 											Diamantina
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tDiamantina72">
 										7g
 											
 										</div>
@@ -83,10 +83,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/Plumones.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tPlumones">
 											Plumones
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tPlumones2">
 											Comestibles
 										</div>
 									</div>
@@ -123,10 +123,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/Cortadores.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tCortadores">
 											Cortadores
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tCortadores2">
 											
 										</div>
 									</div>
@@ -136,10 +136,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/PegamentoFondant.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tPegamento">
 											Pegamento
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tPegamento2">
 											para Fondant
 										</div>
 									</div>
@@ -149,10 +149,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/PerlasDiamantadas.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tPerlasD">
 											Perlas
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tPerlasD2">
 											Diamantadas
 										</div>
 									</div>
@@ -162,10 +162,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/PerlasNacaradas.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tPerlasN">
 											Perlas
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tPerlasN2">
 											Nacaradas
 										</div>
 									</div>
@@ -201,10 +201,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/CMC.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tCMC">
 											Endurecedor de Fondant
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tCMC2">
 										CMC
 											
 										</div>
@@ -215,10 +215,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/MermeladaHorneable.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tMermelada">
 											Mermelada
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tMermelada2">
 											Horneable
 										</div>
 									</div>
@@ -228,10 +228,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/TapeteFondant.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tTapete">
 											Tapete 
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tTapete2">
 											para Fondant
 										</div>
 									</div>

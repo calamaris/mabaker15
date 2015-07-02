@@ -34,12 +34,12 @@
 						</div>
 					</li>
 				</a>
-				<a href="empresa.php"><li id="empresa">Empresa</li></a>
+				<a href="empresa.php"><li id="empresa" class="tEmpresa">Empresa</li></a>
 				<a href="videorecetas.php">
-					<li id="videorecetas">Videorecetas</li>
+					<li id="videorecetas" class="tVideorecetas">Videorecetas</li>
 				</a>
 				<a href="contacto.php">
-					<li id="contacto">Contacto</li>
+					<li id="contacto" class="tContacto">Contacto</li>
 				</a>
 				
 			</ul>

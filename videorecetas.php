@@ -27,10 +27,10 @@
 			<div class="iw">
 				
 				<div class="titulo">
-					<h1>Videorecetas</h1>
+					<h1 class="tVideorecetas">Videorecetas</h1>
 				</div>
 				<aside class="ytSubscribe">
-					<h2>Suscribete a nuestro canal</h2>
+					<h2 class="tSuscribete">Suscribete a nuestro canal</h2>
 					<div class="g-ytsubscribe" data-channel="mabakerandchef" data-layout="full" data-count="undefined"></div>
 				</aside>
 				

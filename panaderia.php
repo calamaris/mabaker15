@@ -24,11 +24,11 @@
 			<div class="iw">
 				<div class="navegacionWrapp">
 					<div class="navegacion">
-						<a href="productos.php">Productos</a> > <a href="panaderia.php">Panaderia</a> 
+						<a href="productos.php" class="tProducto">Productos</a> > <a href="panaderia.php" class="tPanaderia">Panaderia</a> 
 					</div>
 				</div>
 				<div class="titulo">
-					<h1>Panaderia</h1>
+					<h1 class="tPanaderiaS">Panaderia</h1>
 					<h2></h2>
 
 					
@@ -42,10 +42,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/BrilloPan.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tBrillo">
 											Brillo para 
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tBrillo2">
 											Pan y Fruta
 										</div>
 									</div>
@@ -55,10 +55,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/MermeladaHorneable.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tMermelada">
 											Mermelada
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tMermelada2">
 											Horneable
 										</div>
 									</div>
@@ -68,10 +68,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/CoberturaParaChocolate.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tCoberturaChoco">
 											Cobertura 
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tCoberturaChoco2">
 											para Chocolate
 										</div>
 									</div>
@@ -81,10 +81,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/MoldesSilicona.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tMoldesSilicona">
 											Moldes
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tMoldesSilicona2">
 											de Silicona
 										</div>
 									</div>
@@ -94,10 +94,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/SaborPan.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tSaborPan">
 											Sabor 
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tSaborPan2">
 											para Pan
 										</div>
 									</div>
@@ -107,10 +107,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/CoberturaparaDona.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tCoberturaDona">
 											Cobertura 
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tCoberturaDona2">
 											para Dona
 										</div>
 									</div>
@@ -120,10 +120,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/ColoresparaPan.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tColorPolvo">
 											Color 
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tColorPolvo2">
 											en Polvo
 										</div>
 									</div>
@@ -133,10 +133,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/VainillaOscura.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tVainilla">
 											Vainilla Oscura 
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tVainilla2">
 											
 										</div>
 									</div>
@@ -146,10 +146,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/MoldesTruffly.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tMoldesTruffly">
 											Moldes
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tMoldesTruffly2">
 											Truffly
 										</div>
 									</div>

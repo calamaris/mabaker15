@@ -24,12 +24,12 @@
 			<div class="iw">
 				<div class="navegacionWrapp">
 					<div class="navegacion">
-						<a href="productos.php">Productos</a> > <a href="pastelCrema.php">Pastel de Crema</a> 
+						<a href="productos.php" class="tProducto">Productos</a> > <a href="pastelCrema.php" class="tPastel">Pastel de Crema</a> 
 					</div>
 				</div>
 				<div class="titulo">
-					<h1>Pastel</h1>
-					<h2>de Crema</h2>
+					<h1 class="tPastelS">Pastel</h1>
+					<h2 class="tPastelS2">de Crema</h2>
 
 					
 				</div>
@@ -42,7 +42,7 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/Matizadores.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tMatizadores">
 											Matizadores
 										</div>
 										<div class="texto2">
@@ -55,10 +55,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/Diamantina6g.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tDiamantina6">
 											Diamantina
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tDiamantina62">
 										6g
 											
 										</div>
@@ -69,10 +69,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/Diamantina7g.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tDiamantina7">
 											Diamantina
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tDiamantina72">
 										7g
 											
 										</div>
@@ -123,10 +123,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/MermeladaHorneable.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tMermelada">
 											Mermelada
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tMermelada2">
 											Horneable
 										</div>
 									</div>
@@ -136,10 +136,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/Transfer.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tTransferChoco">
 											Transfer
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tTransferChoco2">
 											para Chocolate
 										</div>
 									</div>
@@ -149,7 +149,7 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/Merengue.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tMerengue">
 											Merengue
 										</div>
 										<div class="texto2">
@@ -162,10 +162,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/SaboresGanache.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tSaborGanache">
 											Sabor 
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tSaborGanache2">
 											para Ganache
 										</div>
 									</div>
@@ -175,10 +175,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/DesmoldanteSpray.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tDesmoldante">
 											Desmoldante
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tDesmoldante2">
 										en Spray
 											
 										</div>
@@ -189,10 +189,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/Acetato.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tAcetato">
 											Acetato
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tAcetato2">
 											
 										</div>
 									</div>
@@ -202,10 +202,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/CoberturaParaChocolate.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tCoberturaChoco">
 											Cobertura 
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tCoberturaChoco2">
 											para Chocolate
 										</div>
 									</div>
@@ -215,10 +215,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/BrilloPan.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tBrillo">
 											Brillo para 
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tBrillo2">
 											Pan y Fruta
 										</div>
 									</div>
@@ -228,10 +228,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/MoldesSilicona.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tMoldesSilicona">
 											Moldes
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tMoldesSilicona2">
 											de Silicona
 										</div>
 									</div>
