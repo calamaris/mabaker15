@@ -142,6 +142,15 @@ var objIdioma={
 
 	]
 }
+// Te deje dos ejemplos Ema, el primero seria para cuando vas a remplazar un tag <img src="bla bla">, 
+// el segundo que es el que esta ccasi en todo el sitio es para remplazar un background image por lo que hay que 
+// agregar con todo y el url();
+var objImagenesL={
+	"data":[
+		{"sel":".tProducto", "img": ["shared/img/imagenEspanol.jpg", "shared/img/imagenIngles.jpg"]}, /* para un img*/
+		{"sel":".tProducto", "img": ["url(shared/img/imagenEspanol.jpg)", "url(shared/img/imagenIngles.jpg)"]} /* para un background image*/
+	]
+}
 
 
 function cambiaIdioma () {
@@ -149,5 +158,14 @@ function cambiaIdioma () {
 		var selector=objIdioma.data[i].sel;
 		var content=objIdioma.data[i].content[lang];
 		$(selector).html(content);
+	}
+	for(i in objImagenesL.data){
+		var selector=objImagenesL.data[i].sel;
+		var img=objImagenesL.data[i].img[lang];
+		if (img.indexOf("url")) {
+			$(selector).css("background-image",img);
+		}else{
+			$(selector).attr("src",img);
+		}
 	}
 }
