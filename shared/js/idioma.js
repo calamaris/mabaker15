@@ -142,7 +142,8 @@ var objIdioma={
 
 	]
 }
-// Te deje dos ejemplos Ema, el primero seria para cuando vas a remplazar un tag <img src="bla bla">, 
+// Te deje dos ejemplos Ema, el primero seria para cuando vas a remplazar un tag <img src="bla bla">, en este caso
+// tendras que agregarle la clase al img ej: <img class="selector" src=""/>
 // el segundo que es el que esta ccasi en todo el sitio es para remplazar un background image por lo que hay que 
 // agregar con todo y el url();
 var objImagenesL={
