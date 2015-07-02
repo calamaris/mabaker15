@@ -138,7 +138,7 @@ var objIdioma={
 		{"sel":"#tTapete2", "content": ["Para Fondant", "Spreader Rug"]},
 		{"sel":"#tVainilla", "content": ["Vainilla", "Dark"]},
 		{"sel":"#tVainilla2", "content": ["Oscura", "Vainilla"]},
-		{"sel":"#tSprayPlata", "content": ["Plata", "Silver"]},
+		{"sel":"#tSprayPlata", "content": ["Plata", "Silver"]}
 
 	]
 }
@@ -149,7 +149,7 @@ var objIdioma={
 var objImagenesL={
 	"data":[
 		{"sel":".tProducto", "img": ["shared/img/imagenEspanol.jpg", "shared/img/imagenIngles.jpg"]}, /* para un img*/
-		{"sel":".tProducto", "img": ["url(shared/img/imagenEspanol.jpg)", "url(shared/img/imagenIngles.jpg)"]} /* para un background image*/
+		{"sel":"#Vchocolate", "img": ["url(../img/Videorecetas/chocolateG.jpg);", "url(../img/Videorecetas/chocolateGI.jpg);"]} /* para un background image*/
 	]
 }
 
