@@ -149,7 +149,7 @@ var objIdioma={
 var objImagenesL={
 	"data":[
 		{"sel":".tProducto", "img": ["shared/img/imagenEspanol.jpg", "shared/img/imagenIngles.jpg"]}, /* para un img*/
-		{"sel":"#Vchocolate", "img": ["url(../img/Videorecetas/chocolateG.jpg);", "url(../img/Videorecetas/chocolateGI.jpg);"]} /* para un background image*/
+		{"sel":"#Vchocolate", "img": ["url(shared/img/Videorecetas/chocolateG.jpg)", "url(shared/img/Videorecetas/chocolateGI.jpg)"]} /* para un background image*/
 	]
 }
 
@@ -163,8 +163,8 @@ function cambiaIdioma () {
 	for(i in objImagenesL.data){
 		var selector=objImagenesL.data[i].sel;
 		var img=objImagenesL.data[i].img[lang];
-		if (img.indexOf("url")) {
-			$(selector).css("background-image",img);
+		if (img.indexOf("url")>=0) {
+			$(selector).css("background-image", img);
 		}else{
 			$(selector).attr("src",img);
 		}
