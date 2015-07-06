@@ -132,13 +132,26 @@ var objIdioma={
 		{"sel":"#tRelleno", "content": ["Relleno", "Ganache"]},
 		{"sel":"#tRelleno2", "content": ["tipo Ganache", "Fillings"]},
 		{"sel":"#tSaborPan", "content": ["Sabor", "Bread"]},
-		{"sel":"#tSaborGanache", "content": ["para Pan", "flavors"]},
+		{"sel":"#tSaborPan2", "content": ["para Pan", "Flavors"]},
+		{"sel":"#tSaborGanache", "content": ["Sabores para", "Ganache"]},
+		{"sel":"#tSaborGanache2", "content": ["Ganache", "flavors"]},
 		{"sel":"#tSprayOro", "content": ["Oro", "Gold"]},
 		{"sel":"#tTapete", "content": ["Tapete", "Fondant"]},
 		{"sel":"#tTapete2", "content": ["Para Fondant", "Spreader Rug"]},
 		{"sel":"#tVainilla", "content": ["Vainilla", "Dark"]},
 		{"sel":"#tVainilla2", "content": ["Oscura", "Vainilla"]},
-		{"sel":"#tSprayPlata", "content": ["Plata", "Silver"]}
+		{"sel":"#tSprayPlata", "content": ["Plata", "Silver"]},
+		{"sel":"#tCoberturaChiclosa", "content": ["Cobertura", "Taffy"]},
+		{"sel":"#tCoberturaChiclosa2", "content": ["Chiclosa", "Cover"]},
+		{"sel":"#tFlan", "content": ["Flan", "Custard"]},
+		{"sel":"#tFlan2", "content": ["en Polvo", "Powder"]},
+		{"sel":"#tFuente", "content": ["Fuente", "Chocolate"]},
+		{"sel":"#tFuente2", "content": ["de Chocolate", "Fountain"]},
+		{"sel":"#tGubias", "content": ["Gubias", "Gouges"]},
+		{"sel":"#tMerengue", "content": ["Merengue", "Meringue"]},
+		{"sel":"#tMerengue2", "content": ["", "Powder"]},
+		{"sel":"#tSaborGelatina", "content": ["Sabores para", "Jelly"]},
+		{"sel":"#tSaborGelatina2", "content": ["Sabores para", "Flavors"]},
 
 	]
 }
@@ -149,7 +162,14 @@ var objIdioma={
 var objImagenesL={
 	"data":[
 		{"sel":".tProducto", "img": ["shared/img/imagenEspanol.jpg", "shared/img/imagenIngles.jpg"]}, /* para un img*/
-		{"sel":"#Vchocolate", "img": ["url(shared/img/Videorecetas/chocolateG.jpg)", "url(shared/img/Videorecetas/chocolateGI.jpg)"]} /* para un background image*/
+		{"sel":"#Vchocolate", "img": ["url(shared/img/Videorecetas/chocolateG.jpg)", "url(shared/img/Videorecetas/chocolateGI.jpg)"]}, /* para un background image*/
+		{"sel":"#Vfondant", "img": ["url(shared/img/Videorecetas/fondantG.jpg)", "url(shared/img/Videorecetas/fondantGi.jpg)"]}, 
+		{"sel":"#Vgelatina", "img": ["url(shared/img/Videorecetas/gelatinaG.jpg)", "url(shared/img/Videorecetas/gelatinaGi.jpg)"]}, 
+		{"sel":"#Vpanaderia", "img": ["url(shared/img/Videorecetas/panaderiaG.jpg)", "url(shared/img/Videorecetas/panaderiaGi.jpg)"]}, 
+		{"sel":"#Vgalletas", "img": ["url(shared/img/Videorecetas/galletas.jpg)", "url(shared/img/Videorecetas/galletasi.jpg)"]}, 
+		{"sel":"#vPastel", "img": ["url(shared/img/Videorecetas/Pastel.jpg)", "url(shared/img/Videorecetas/pasteli.jpg)"]}, 
+		{"sel":"#VcupCakes", "img": ["url(shared/img/Videorecetas/cupcakes.jpg)", "url(shared/img/Videorecetas/cupcakesi.jpg)"]}, 
+		{"sel":"#Veventos", "img": ["url(shared/img/Videorecetas/Veventos.jpg)", "url(shared/img/Videorecetas/eventosi.jpg)"]}
 	]
 }
 

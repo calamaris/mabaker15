@@ -227,10 +227,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/CoberturaChiclosa.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1" id="tCoberturaChi">
+										<div class="texto1" id="tCoberturaChiclosa">
 											Cobertura 
 										</div>
-										<div class="texto2" id="tCoberturaChi2">
+										<div class="texto2" id="tCoberturaChiclosa2">
 											Chiclosa
 										</div>
 									</div>

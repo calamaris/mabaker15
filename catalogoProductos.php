@@ -374,7 +374,7 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/Gubias.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tGubias">
 											Gubias
 										</div>
 										<div class="texto2">
@@ -442,10 +442,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/Merengue.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tMerengue">
 											Merengue
 										</div>
-										<div class="texto2">
+										<div class="texto2" id="tMerengue2">
 											
 										</div>
 									</div>

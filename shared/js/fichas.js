@@ -264,13 +264,12 @@ var Productos ={
 
                 "desc": [
                   "<br>Cobertura sabor tamarindo Ideal para paletas de frutas (manzanas, mangos, etc.)<br><br>   Cobertura sabor tamarindo. Presentación 1 Kg.",
-                  "english lorem ipsum alskdañlsk ñalsk añlsk alskd alskd añlkd ."
+                  "<br>Tamarind flavored cover ideal for fruit popsicles, apples, mangos, etc.<br><br> Tamarind flavored cover. 1kg presentations."
                 ],
 
                 "modo":[
                   "<br>Calentar en el microondas hasta tibiar (3 lapsos de 30 segundos aproximadamente) , cubrir la manzana girándola dentro de la cobertura y terminarla adicionando chile piquin, miguelito, etc",
-                  "english lorem ipsum dosis"
-                ],
+                  "<br>Put into the microwave until is warm, for about 1:30 minutes, then cover the apple spinning it around in the tamarind cover, and finally add some piquin chili or “miguelito”."],
 
                 "imagen": "CoberturaTamarindo.png",
 
@@ -290,18 +289,17 @@ var Productos ={
             },
             /* --------------- producto ---------------  */
             {
-                "nombre": ["Cobertura Chiclosa" , "Cobertura Chiclosa"],
+                "nombre": ["Cobertura Chiclosa" , "Taffy Cover"],
 
                 "subtitulo" : ["", ""],
 
                 "desc": [
                   "<br>Cobertura tipo chicloso ideal para para cubrir manzanas y diferentes frutas, trampar chocolate, semillas, bombón, etc.<br>  <strong>Presentaciones 250 g. y 1 Kg.</strong><br> Aplíquese ya fundida (lapsos de 30 segundos hasta tibiar y cuidando no calentar en exceso).",
-                  "english lorem ipsum alskdañlsk ñalsk añlsk alskd alskd añlkd ."
-                ],
+                  "<br>Delicious caramel flavored taffy ideal for covering apples, chocolates and cereal.<br> Taffy cover ideal for using in apples and different fruits; tremper chocolate, seeds, marshmallows, etc.<br> <strong>250gr and 1kg presentations</strong><br> Apply when it’s already molten."],
 
                 "modo":[
-                  "<br>Aplíquese ya fundida (lapsos de 30 segundos hasta tibiar  y cuidand    no calentar en exceso), introducir  y girar la fruta hasta cubrir para terminar podemos agregarle cacahuate, galletas, lunetas, etc.",
-                  "english lorem ipsum dosis"
+                  "<br>Aplíquese ya fundida (lapsos de 30 segundos hasta tibiar  y cuidado    no calentar en exceso), introducir  y girar la fruta hasta cubrir para terminar podemos agregarle cacahuate, galletas, lunetas, etc.",
+                  "<br>Warm in 30 seconds spans, taking care of not letting it get excessively hot; introduce and turn the fruit in order to cover it perfectly, and finally, we can add some peanuts, cookies, lunettes, etc."
                 ],
 
                 "imagen": "CobeturaChiclosa.png",
@@ -609,18 +607,16 @@ var Productos ={
             },
             /* --------------- producto ---------------  */
             {
-                "nombre": ["Flan en Polvo" , "Flan en Polvo"],
+                "nombre": ["Flan en Polvo" , "Custard Powder"],
 
                 "subtitulo" : ["", ""],
 
                 "desc": [
-                  "<br>El postre preferido de niños y grandes, el flan, en la época de la los romanos se le conocía como tyropatina, y lo degustaban en la cuaresma, fue alrededor del siglo VII que se popularizó en el término flan para nombrar a este postre, y también fue por esa época que se dejó de espolvorear pimienta en su superficie, como acostumbraban los romanos, y se sustituyó por azúcar y hoy en día caramelo líquido.<br><br>  <strong>Presentaciones 1Kg., y 25 Kg.</strong><br>  - Aplicación directamente en leche.<br> - Sabor cremoso y lácteo.<br> - Un Kg de polvo rinde para casi 6 Kg de Flan.<br>  - Textura en polvo.<br> - El tamaño exacto que tú necesitas sin que lo tengas que comprar a granel, se traduce en higiene y sin contaminaciones igual a la calidad",
-                  "english lorem ipsum alskdañlsk ñalsk añlsk alskd alskd añlkd ."
-                ],
+                  "<br>Es el postre preferido de chicos y grande. El flan, en la época de los romanos, era conocido como “tyropatina”, y era degustado en la cuaresma; pero fue hasta aproximadamente el siglo VII que se popularizó el termino flan para llamar a este postre.<br><br> También, en esta época, se dejó de espolvorear pimienta en su superficie como acostumbraban los romanos, y se sustituyó por azúcar; hoy en día se utiliza caramelo líquido.<br><br>  <strong>Presentaciones 1Kg., y 25 Kg.</strong><br>  - Aplicación directamente en leche.<br> - Sabor cremoso y lácteo.<br> - Un Kg de polvo rinde para casi 6 Kg de Flan.<br>  - Textura en polvo.<br><br>El tamaño exacto que tú necesitas sin que lo tengas que comprar a granel, se traduce en higiene y sin contaminaciones igual a la calidad", "<br>This is the favorite dessert of the youngest and oldest. The custard, in the Romans age, was known as “tyropatina”, and was eaten in the Lent, but wasn’t until the 7th century that the name “custard” became popular on this dessert.<br><br> Also, in this age, the people stopped sprinkling pepper in the surface, as the Romans used to, and was replaced by sugar; nowadays, by liquid caramel.<br><br> <strong>1kg and 25kg presentations</strong><br> -Direct application to the milk.<br> Creamy and dairy flavor.<br> -1kg of powder yields up to 6kg of custard.<br> -Powder texture.<br><br> The accurate size you need, without buying it in bulk, translates into hygiene; Without pollution, translates into quality."],
 
                 "modo":[
                   "<br>Dosificar en un litro de leche 170 g., del flan en polvo y mezclar hasta quedar bien incorporado.",
-                  "english lorem ipsum dosis"
+                  "<br>Dose into 1L of milk, 170gr of custard powder, then mix completely"
                 ],
 
                 "imagen": "Flan.png",
@@ -673,19 +669,18 @@ var Productos ={
             },
             /* --------------- producto ---------------  */
             {
-                "nombre": ["Fuente de Chocolate" , "Fuente de Chocolate"],
+                "nombre": ["Fuente de Chocolate" , "Chocolate Fountain"],
 
                 "subtitulo" : ["", ""],
 
                 "desc": [
                   "<br>Ideal para frutas, dulces, helados, paletas heladas, bombones y muchas cosas más.",
-                  "english lorem ipsum alskdañlsk ñalsk añlsk alskd alskd añlkd ."
+                  "<br>For children parties, weddings, christenings, baby showers and many other things.<br><br> -High resistance materials."
                 ],
 
                 "modo":[
                   "<br>Conectar a la corriente eléctrica, agregar la cobertura de chocolate fundida, girar la perilla de encendido para que pueda circular la cobertura de chocolate.",
-                  "english lorem ipsum dosis"
-                ],
+                  "<br>Plug into the electricity, then add the molten chocolate cover and finally turn the fountain on in order to make it work with the chocolate.<br> Ideal for fruits, candies, ice cream, popsicles, marshmallows and more! "],
 
                 "imagen": "FuenteDeChocolate.png",
 
@@ -801,18 +796,18 @@ var Productos ={
             },
             /* --------------- producto ---------------  */
             {
-                "nombre": ["Gubias" , "Gubias"],
+                "nombre": ["Gubias" , "Gouges"],
 
                 "subtitulo" : ["", ""],
 
                 "desc": [
                   "<br>Son herramientas de corte para hacer la forma del pétalo, hoja o tallo en una gelatina preparada.",
-                  "english lorem ipsum alskdañlsk ñalsk añlsk alskd alskd añlkd ."
+                  "<br>They are cutting tools that makes leave, stem or petal shapes in an artistic jelly."
                 ],
 
                 "modo":[
                   "",
-                  "english lorem ipsum dosis"
+                  ""
                 ],
 
                 "imagen": "Gubias.png",
@@ -839,13 +834,11 @@ var Productos ={
 
                 "desc": [
                   "<br>Es un disacárido, formado por la unión de glucomanitol y glucosorbitol; también conocido comercialmente como Isobyalt, fue descubierto en la décad de 1960. Es un carbohidrato poco digestible. Edulcorante dietético fabricado exclusivamente con azúcar como materia prima.  Se dirige sólo parcialmente en la parte baja del tracto intestinal. Algunas de las partes no absorbidas son metabolizadas por las bacterias del intestino. Ese proceso es normal pero puede causar en algunas personas deposiciones más blandas o más gases intestinales de lo usual de forma similar a la reacción del cuerpo a comidas con alto contenido de fibras. La poca gente que puede ser sensible, normalmente no tiene problema si comienzan con pequeñas porciones e incrementan el consuma gradualmente.<br><br> <strong>Resumen de características:</strong><br>  - Está hecho a base de azúcar.<br> - Se usa en una gran variedad de alimentos y fármacos.<br> - Tiene el mismo gusto, textura y apariencia del azúcar.<br> - Potencia el gusto dulce de los edulcorantes.<br> - Posee menos de 2 calorías por gramo (la mitad que el azúcar).<br> - No produce caries dentales.<br> - No es pegajoso porque no es higroscópico.<br> - No incrementa la glucosa en sangre ni los niveles de insulina. ",
-                  "english lorem ipsum alskdañlsk ñalsk añlsk alskd alskd añlkd ."
-                ],
+                  "<br>Isomalt (hydrogenated Isomaltitol or Isomaltose) is a disaccharide, formed by the union of glucomanitol and glucosorbitol; also known commercially as Isobyalt, it was discovered in the 1960s it a little digestible carbohydrate. Diet sweetener made exclusively sugar feedstock.<br><br> It is only partially digested in the lower intestinal tract. Some of the parts are not absorbed nor metabolized by intestinal bacteria. This process is normal but may cause in some people more loose stools or more intestinal gas than usual similar to the body's reaction to foods fiber high. The few people, who may be sensitive, usually have no problem if they start with small amounts, and gradually increase consumption.<br><br> <strong>Features:</strong><br><br> -Is made of sugar.<br> -Is used in a variety of food and medicines.<br> -It has the same texture, flavor and look as the sugar.<br> -Enhances the sweet taste of sweeteners.<br> -It has less than 2 calories per gr. (half than the sugar) .<br> -Cariogenic.<br> -Is not sticky because is not hygroscopic.<br> -Does not increase the blood glucose and insulin levels "],
 
                 "modo":[
                   "Mezcla aproximadamente equimolecular de 6-0-a-D-Glucopiranosil-D-Manitol dihidratado (C12H24011. 2H20) con 6-0-a-D-Glucopiranosil-D-Sorbitol (C12H24011) Se han realizado extensas investigaciones sobre el efecto de Isomalt en los niveles de glucosa e insulina. Los resultados sobre personas con diabetes tipo 1 y tipo 2 han mostrado que después de la digestión de Isomalt, dichos niveles no difieren significativamente de los niveles normales.",
-                  "english lorem ipsum dosis"
-                ],
+                  "<br><strong>Formula:</strong> approximately equimolar mixture of  6-0-a-D-Glucopiranosil-D-Manitol dihidratado (C12H24011. 2H20) con 6-0-a-D-Glucopiranosil-D-Sorbitol (C12H24011)<br><br> There has been extensive research on the effect of Isomalt in glucose and insulin levels. The results for people with diabetes type 1 and 2, have shown that after digestion, the levels did not significantly differ from normal.<br><br> One of the best sugar substitutes on the market "],
 
                 "imagen": "Isomalt.png",
 
@@ -902,12 +895,11 @@ var Productos ={
 
                 "desc": [
                   "<br>34 colores líquidos mate y 18 colores metálicos en presentación de 10 ml, 70 ml y 270 ml.<br><br>  Amarillo Dorado, Amarillo Huevo, Amarillo Limón, Amarillo Neón, Azul Cielo, Azul Neón, Azul Rey, Blanco, Café, Carne, Durzano, Fucsia, Marfil, Naranja, Naranja Neón, Negro, Purpura, Purpura Neón, Rojo Navidad, Rojo Rojo, Rojo Rubí o Vino, Rosa, Rosa Mexicano, Rosa Neón, Rosa Pastel, Súper Rojo, Turquesa, Uva, Verde Agua, Verde Bosque, Verde Esmeralda, Verde Hoja, Verde Neón, Violeta.<br><br> <strong>Metálicos:</strong><br> Oro, Plata, Cobre, Perla Metálico, Rojo Rubí Metálico, Café Metálico, Rosa Pastel Metálico, Azul Rey Metálico, Tornasol, Azul Cielo Metálico, Vino Metálico, Fucsia Metálico, Verde Neón Metálico, Rojo Intenso Metálico, Gris Oxford Metálico, Amarillo Metálico, Shedron Metálico, Acero.<br><br> Presentaciones 10, 70 y 270 ml.<br> Aplicación en aerógrafo para pastel de crema.<br> 52 colores brillantes y frescos.<br> Obtendremos tonos especificos y de alta concentración.<br> Fácil dosificación.<br> Textura liquida facilitando la aplicación y dispersión del color.<br> Mantiene la consistencia de la base.<br> Aditivo de grado alimenticio que proporciona color.<br> No proporciona olor ni sabor.<br> Colores certificados FDA (Food and Drug Administration)<br> Colores con Certificación KOSHER. ", 
-                  "english lorem ipsum alskdañlsk ñalsk añlsk alskd alskd añlkd ."
-                ],
+                  "<br>34 matte liquid colors and 18 metallic, in 10ml, 70ml and 270ml presentations.<br><br> <strong>Matte colors:</strong><br> Golden yellow, Egg yellow, lemon yellow, neon yellow, sky blue, neon blue, king blue, white, brown, flesh, peach, fuchsia, ivory, orange, neon orange, black, purple, neon purple, Christmas red, red, rubi red or wine red, pink, Mexican pink, neon pink, pastel pink, super red, turquoise, grape, aqua green, forest green, emerald green, leafy green, neon green and violet.<br><br> <strong>Metallic:</strong><br> Gold, silver, copper, Metallic Pearl, Metallic rubi red, Metallic brown, metallic pastel pink, Metallic King blue, litmus, metallic sky blue, metallic wine, metallic fuchsia, metallic neon green, metallic vivid red, metallic oxford gray, metallic yellow, metallic shedron and steel.<br><br> 10ml, 70ml and 270ml presentations<br> -Airbrush application for cream cake<br> -52 different bright and fresh colors<br> -We get high concentration tones<br> -Easy dosage<br> -Liquid texture that makes easier the application and the spread of the color. <br> -Doesn’t modify the consistence or the texture of the base. <br> -Food grade additive that brings color. <br> -Doesn’t bring odor or flavor. <br> -Supported by the FDA. <br> -KOSHER certified colors. "],
 
                 "modo":[
                   "",
-                  "english lorem ipsum dosis"
+                  "<br>Dose directly over the bowl with the airbrush, or over your cake’s surface pressing softly the airbrush."
                 ],
 
                 "imagen": "LiquidColor.png",
@@ -959,19 +951,17 @@ var Productos ={
             },
             /* --------------- producto ---------------  */
             {
-                "nombre": ["Merengue" , "Merengue"],
+                "nombre": ["Merengue" , "Meringue Powder"],
 
                 "subtitulo" : ["", ""],
 
                 "desc": [
                   "<br>El polvo de Merengue para hacer decoraciones en pastel es un magnifico producto y muy rendidor.”<br><strong>Presentaciones de 250 gr 500 y 1 Kg.</strong><br><br> Facíl de usar.<br> Gran rendimiento.<br> Sabor delicioso.", 
-                  "english lorem ipsum alskdañlsk ñalsk añlsk alskd alskd añlkd ."
-                ],
+                  "<br>-250gr, 500gr and 1kg presentations<br> -Satin look<br> -Easy to use<br> - Store at a temperature between 20°C and 25°C, in a fresh and dry place "],
 
                 "modo":[
                   "<br>1.- Utilizar 500 gr de azúcar y disolver en 130 ml de agua, calentar hasta punto de hebra.<br> 2.- Agregar 180 ml de agua y 20 gr de polvo de merengue en el bol, mezclar en la batidora por 2 minutos a velocidad media.<br> 3.- Una vez mezclado el paso No. 2, bajar la velocidad y agregar lentamente el jarabe mencionado en el paso No. 1, por tiempo de 2 minutos.<br> Decorar al gusto con espátula y Manga.",
-                  "english lorem ipsum dosis"
-                ],
+                  "<br>1- Use 500gr of sugar and dissolve into 130ml of water; warm until the point of strand.<br> 2- Add 180ml of water and 20gr of meringue powder in the bowl, and then use the mixer for about 2 minutes on a medium speed.<br> 3- Once is completely mixed, reduce the speed and add slowly the syrup obtained in the first step; mix for another minute.<br> Decorate at your own taste with a pastry bar or a spatula "],
 
                 "imagen": "Merengue.png",
 
@@ -1499,18 +1489,17 @@ var Productos ={
             },
             /* --------------- producto ---------------  */
             {
-                "nombre": ["Sabores para Ganache" , "Sabores para Ganache"],
+                "nombre": ["Sabores para Ganache" , "Ganache flavors"],
 
                 "subtitulo" : ["", ""],
 
                 "desc": [
                   "<br><strong>30 Sabores en Presentación de 285 gr y 300 gr.</strong><br> ALMENDRA, AVELLANA, BERGAMOTA, BRANDI, BRANDY CON JUGO DE UVA, CAFÉ, CAFÉ MOZCATEL, CANELA, CARDAMOMO, CEREZA, CHAMPAGNE, FRAMBUESA, FRESA, GRAN MARNNIER, JEREZ SECO, LIMON, MANDARINA, MARACUYA, MENTA, MOSCATEL, MOZCATEL CON NUEZ, NARANJA, NUEZ, PETALOS DE ROSA, PISTACHES AL VINO BLANCO, PLATANOS AL CHOCOLATE, RON AÑEJO, TE CHAI, TEQUILA, VIOLETAS.<br><br> - Presentaciones 285 g. y 300 g.<br> - Aplicación directa a una base de ganache.<br> - 10 sabores concentrados que hacen de su Ganache más definido y con su sabor inigualable.<br> - Textura semi-solida.<br> - Aditivo de grado alimenticio que proporciona sabor y olor.<br> - Fácil de usar.<br> - Gran rendimiento. ",
-                  "english lorem ipsum alskdañlsk ñalsk añlsk alskd alskd añlkd ."
-                ],
+                  "<br><strong>30 flavors in 285gr and 300gr presentations</strong><br><br> Almond, hazelnut, bergamot, brandy, brandy with grape juice, coffee, muscatel coffee, cinnamon, cardamom, cherry, champagne, raspberry, strawberry, gran mannier, dry sherry, lemon, mandarin, passion fruit, mint, muscatel, muscatel with walnut, orange, walnut, rose petals, pistachio, white wine pistachio, chocolate bananas, old rum, chai tea, tequila, violets.<br><br> -285gr and 300gr presentations.<br> -Direct application to a ganache base.<br> -10 concentrated flavors that defines better the flavor of your ganache, making it matchless. .<br> -Semi solid texture.<br> -Food grade additive that brings color.<br> -Easy to use.<br> -High yield. "],
 
                 "modo":[
-                  "<br>Cuando el chocolate este fundido se incorpora la crema y se mezcla a fuego lento, a la pasta formada se le llama ganache, a esta pasta adicionar de 10 a 20 gr de sabor según su gusto.", 
-                  "english lorem ipsum dosis"
+                  "<br>Cuando el chocolate este fundido se incorpora la crema y se mezcla a fuego lento, (a la pasta formada se le llama ganache), a esta pasta adicionar de 10 a 20 gr de sabor según su gusto.", 
+                  "<br>When the chocolate it’s completely molten, add the cream and mix at a low fire (the resulting paste is called ganache); Add from 10 to 20gr of the flavors at your own taste. "
                 ],
 
                 "imagen": "SaborGanache.png",
@@ -1531,18 +1520,17 @@ var Productos ={
             },
             /* --------------- producto ---------------  */
             {
-                "nombre": ["Sabores para Gelatina" , "Sabores para Gelatina"],
+                "nombre": ["Sabores para Gelatina" , "Jelly Flavors"],
 
                 "subtitulo" : ["", ""],
 
                 "desc": [
-                  "<br><strong>Saborizantes para gelatina artística y normal, sin color para que tus gelatinas florales queden hermosas.</strong><br> Sabores: Almendra (Leche), Anís (G.A.), Café (Leche), Chocolate (Leche), Coco (Leche) (G.A.), Fresa (Leche) (G.A.), Grosella (G.A.),Jerez (G.A.), Limón (G.A.), Mango (G.A.). Menta (G.A.), Naranja (G.A.), Nuez (Leche), Piña (G.A.), Piñón (Leche), Pistache (Leche), Rompope (Leche), Uva (G.A.),  Vainilla obscura (Leche), Vainilla Blanca (Leche).<br><br> Presentaciones 120 ml., 1 L., y 4 L.<br> Aplicación directa.<br> 20 sabores diferentes.<br> Alta definición al degustar.<br> Sabores de alta concentración.<br> Fácil dosificación.",
-                  "english lorem ipsum alskdañlsk ñalsk añlsk alskd alskd añlkd ."
-                ],
+                  "<br><strong>Saborizantes para gelatina artística y normal, sin color para que tus gelatinas florales queden hermosas.</strong><br> Sabores: Almendra (Leche), Anís (G.A.), Café (Leche), Chocolate (Leche), Coco (Leche) (G.A.), Fresa (Leche) (G.A.), Grosella (G.A.),Jerez (G.A.), Limón (G.A.), Mango (G.A.). Menta (G.A.), Naranja (G.A.), Nuez (Leche), Piña (G.A.), Piñón (Leche), Pistache (Leche), Rompope (Leche), Uva (G.A.),  Vainilla obscura (Leche), Vainilla Blanca (Leche).<br><br> Presentaciones 120 ml. 1 L., y 4 L.<br> Aplicación directa.<br> 20 sabores diferentes.<br> Alta definición al degustar.<br> Sabores de alta concentración.<br> Fácil dosificación.",
+                  "<br>For artistic jellies<br> Regular and artistic jellies flavoring, with no color for your floral jellies to look beautiful<br><br> <strong>Flavors:</strong><br> Almond (milk), aniseed (A.J.), coffee (milk), chocolate (milk), coconut (milk)( A.J.), strawberry (milk)( A.J.), redcurrant (A.J.), sherry (A.J.), lemon (A.J.), mango (A.J.), mint (A.J.), orange (A.J.), walnut (A.J.), pineapple (A.J.), pinion (milk), pistachio (milk), eggnog (milk), grape (A.J.), dark vanilla (milk), white vanilla (milk)<br><br> Note: A.J = Artistic jelly<br><br> -120ml, 1l and 4l presentations.<br> -Direct application.<br> -20 different flavors.<br> -High definition at taste.<br> -High concentration flavors.<br> -Easy dosage.<br> -doesn’t bring color "],
 
                 "modo":[
                   "<br>Dosificar de 10 a 15 ml., a un litro de agua directamente y Mezclar hasta dejar bien integrado el sabor", 
-                  "english lorem ipsum dosis"
+                  "<br>Dose directly from 10 to 15 ml into 1 lit. of water, then mix until the flavor it’s completely integrated."
                 ],
 
                 "imagen": "SaborGelatina.png",
@@ -1696,12 +1684,11 @@ var Productos ={
 
                 "desc": [
                   "<br>Azúcar Coloreada granulada o pulverizada<br><br> <strong>Disponible en:</strong><br>    100g y 800g en azúcar granulada, y en 100g y 500g en azúcar pulverizada.<br><br>  <strong>Colores:</strong><br>  Amarillo Delicado,  Amarillo Huevo, Azul, Rosa, Rosa Delicado, Salmón, Fucsia, Naranja, Naranja Delicado, Verde Delicado, Verde Limón. ", 
-                  "english lorem ipsum alskdañlsk ñalsk añlsk alskd alskd añlkd ."
-                ],
+                  "<br>Colored sugar<br><br> <strong>Colored sugar in 2 presentations: powdered and granulated.</strong><br> -100 gr and 800gr granulated presentations<br> -100 gr and 500gr powdered presentations<br><br> <strong>Colors:</strong> delicate yellow, egg yellow, blue, pink, delicate pink, salmon, fuchsia, orange, delicate orange, delicate green, lemon green. "],
 
                 "modo":[
                   "<br>Ideal para pastelería, panadería, chocolatería, coctelería, frutas y dulces cubiertos, postres y confitería.", 
-                  "english lorem ipsum dosis"
+                  "<br>Ideal for bakery, pastry, confectionery, fruits and beverages."
                 ],
 
                 "imagen": "SugarCrush.png",
@@ -1728,13 +1715,11 @@ var Productos ={
 
                 "desc": [
                   "<br>Polvo para hacer encaje blanco de azúcar.<br><br> <strong>Disponible en:</strong><br>    1 Kg, 250 Kg y 500 Kg ", 
-                  "english lorem ipsum alskdañlsk ñalsk añlsk alskd alskd añlkd ."
-                ],
+                  "<br>Powder to make white colored lace<br><br> <strong>-250gr, 500gr and 1kg presentations</strong> "],
 
                 "modo":[
                   "<br>- Mezclar 1 cucharada por 2 de agua a temperatura ambiente.<br>  - Batir 2 min en batidora, velocidad media hasta conseguir una mezcla cremosa.<br> - Vaciar en tapete y reposar por 3 hr, agregar 1 ml de glicerina para mas flexibilidad, hornear 8 min.<br>  - Desmoldar y usar la decoración al gusto. ", 
-                  "english lorem ipsum dosis"
-                ],
+                  "<br>-Mix 1 tbsp for each 2 of water at room temperature<br> -Mix for about 2 minutes in the mixer, at a medium speed until you get a creamy texture<br> -Put the mix in the rug and let it rest for 3 hours, then add 1ml of glycerin, to get more flexibility, and finally bake for 8 minutes "],
 
                 "imagen": "SugarLace.png",
 

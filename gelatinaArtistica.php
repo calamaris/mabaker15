@@ -162,7 +162,7 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/Gubias.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1">
+										<div class="texto1" id="tGubias">
 											Gubias
 										</div>
 										<div class="texto2">
@@ -176,10 +176,10 @@
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/SaborGelatina.png" width="100%"  />
 									<div class="texto">
-										<div class="texto1" id="">
+										<div class="texto1" id="tSaborGelatina">
 											Sabor 
 										</div>
-										<div class="texto2" id="">
+										<div class="texto2" id="tSaborGelatina2">
 											para Gelatina
 										</div>
 									</div>
