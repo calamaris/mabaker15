@@ -71,6 +71,7 @@ var objIdioma={
 		{"sel":"#visitanosTxt", "content": ["... o <strong>visitanos </strong> en ", "... or <strong>visit us</strong> in "]},
 		{"sel":"#tAcetato", "content": ["Acetato", "Acetate"]},
 		{"sel":"#tAcetato2", "content": ["", "strips"]},
+		{"sel":"#tboton", "content": ["enviar", "send"]},
 		{"sel":"#tBenzonato", "content": ["Benzonato", "Sodium"]},
 		{"sel":"#tBenzonato2", "content": ["", "Benzoate"]},
 		{"sel":"#tAcido", "content": ["Acido", "Citric"]},

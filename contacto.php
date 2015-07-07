@@ -83,9 +83,9 @@
 									<input type="radio" name="atencion" value="publico" id="tPublico">Publico <br>
 									<input type="radio" name="atencion" value="otro" id="tOtro">Otro 
 								</div>
-								<label for="comentario" id="tComentarios">Comentarios</label>
+								<label for="comentario" id="tCometarios">Comentarios</label>
 								<textarea name="" id="" cols="30" rows="10" class="input"></textarea>
-								<input type="submit" name="submit" id="submitBtn">
+                                <input type="submit" name="submit" value="Enviar" id="submitBtn">
 							</form>
 						</div>
 					</article>
@@ -101,7 +101,12 @@
 					</article>
 				</div>
 			</section>	
-		
+
+		<script>
+			if(lang==1){
+				$("#submitBtn").attr("value","Send")
+			}
+		</script>
 
 		<?php include("includes/footer.php"); ?>
 	
