@@ -658,19 +658,19 @@ footer a{
 	margin-bottom: 4px;
 }
 .lang{
-	text-shadow:none;
+	text-shadow: none;
 	width: 50%;
-	height: 100%;
+	height: 29px;
 	color: white;
 	text-align: left;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 	float: left;
-	font-size: 13px;
+	font-size: 15px;
 	font-style: italic;
 	font-weight: 400;
-	padding-top: 0px;
+	padding-top: 3px;
 	background: rgb(222, 30, 36);
 	border: 1px solid rgb(98, 4, 3);
 	box-shadow: 0 0 5px rgba(0,0,0,0.3);
@@ -771,6 +771,25 @@ footer a{
 
 
 @media screen and (max-width: 1023px) {
+	.lang{
+		text-shadow:none;
+		width: 50%;
+		height: 100%;
+		color: white;
+		text-align: left;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		float: left;
+		font-size: 13px;
+		font-style: italic;
+		font-weight: 400;
+		padding-top: 0px;
+		background: rgb(222, 30, 36);
+		border: 1px solid rgb(98, 4, 3);
+		box-shadow: 0 0 5px rgba(0,0,0,0.3);
+		cursor: pointer;
+	}
 	#logo{
 		width: 200px;
 		margin-top: 20px;
