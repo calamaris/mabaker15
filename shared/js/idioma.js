@@ -168,9 +168,9 @@ var objImagenesL={
 		{"sel":"#Vgelatina", "img": ["url(shared/img/Videorecetas/gelatinaG.jpg)", "url(shared/img/Videorecetas/gelatinaGi.jpg)"]}, 
 		{"sel":"#Vpanaderia", "img": ["url(shared/img/Videorecetas/panaderiaG.jpg)", "url(shared/img/Videorecetas/panaderiaGi.jpg)"]}, 
 		{"sel":"#Vgalletas", "img": ["url(shared/img/Videorecetas/galletas.jpg)", "url(shared/img/Videorecetas/galletasi.jpg)"]}, 
-		{"sel":"#vPastel", "img": ["url(shared/img/Videorecetas/Pastel.jpg)", "url(shared/img/Videorecetas/pasteli.jpg)"]}, 
+		{"sel":"#vPastel", "img": ["url(shared/img/Videorecetas/pastel.jpg)", "url(shared/img/Videorecetas/pasteli.jpg)"]}, 
 		{"sel":"#VcupCakes", "img": ["url(shared/img/Videorecetas/cupcakes.jpg)", "url(shared/img/Videorecetas/cupcakesi.jpg)"]}, 
-		{"sel":"#Veventos", "img": ["url(shared/img/Videorecetas/Veventos.jpg)", "url(shared/img/Videorecetas/eventosi.jpg)"]}
+		{"sel":"#Veventos", "img": ["url(shared/img/Videorecetas/eventos.jpg)", "url(shared/img/Videorecetas/eventosi.jpg)"]}
 	]
 }
 
