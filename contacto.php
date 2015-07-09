@@ -85,7 +85,8 @@
 								</div>
 								<label for="comentario" id="tCometarios">Comentarios</label>
 								<textarea name="" id="" cols="30" rows="10" class="input"></textarea>
-                                <input type="submit" name="submit" value="Enviar" id="submitBtn">
+								<input type="submit" name="submit" value="Enviar" id="submitBtn">
+
 							</form>
 						</div>
 					</article>
@@ -101,15 +102,19 @@
 					</article>
 				</div>
 			</section>	
-
-		<script>
-			if(lang==1){
-				$("#submitBtn").attr("value","Send")
-			}
-		</script>
-
 		<?php include("includes/footer.php"); ?>
-	
+		<script>
+			function btnSend (){
+				//console.log("si esta");
+				if(lang==1){
+					//console.log("se llamo");
+					$("#submitBtn").attr("value","Send");
+				}
+			}
+			$(document).ready(function(){
+				btnSend();
+			})
+		</script>
 	</div> <!-- skrollrBody -->
 </body>
 </html>
