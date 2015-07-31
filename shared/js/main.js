@@ -275,9 +275,17 @@ function pintaOrigen () {
     };
   
 }
-
-
-
+// $.ajax({
+//       url: "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json&maxResults=50&playlistId=PLQyaS0EGI7dlx9jZjN_hpot5tXKBCzb0d&key=AIzaSyBx9mbP6l6jnsctf-BKukGTkPkxUm37YOg",
+//       type:"GET",
+//       cache: false
+//     })
+//     .done(function(r) {
+//         console.log(r)
+//       });
+// }
+// PLQyaS0EGI7dlx9jZjN_hpot5tXKBCzb0d
+// http://gdata.youtube.com/feeds/api/playlists/PLQyaS0EGI7dlx9jZjN_hpot5tXKBCzb0d?v=3&alt=json&max-results=20
 // ------------------- Videorecetas
 
 var objYT;
@@ -287,13 +295,13 @@ var seccion;
 
 function callJson (playlistId) {
     $.ajax({
-      url: "http://gdata.youtube.com/feeds/api/playlists/"+playlistId+"?v=2&alt=json&max-results=20",
+      url: "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json&maxResults=50&playlistId="+playlistId+"&key=AIzaSyBx9mbP6l6jnsctf-BKukGTkPkxUm37YOg",
       type:"GET",
       cache: false
     })
     .done(function(r) {
         objYT=r;
-        totalDeVideos=objYT.feed.entry;
+        totalDeVideos=objYT.items;
         pintaClusters();
       });
 }
@@ -311,11 +319,7 @@ function callJson (playlistId) {
 cluster='<div class="videoCluster"> <div class="video"> <iframe width="100%" height="100%" src="" frameborder="0" allowfullscreen="1"></iframe> </div> <div class="tituloVideo"></div> </div>'
 
 function obtenId (vidNum) {
-        var videoLink=objYT.feed.entry[vidNum].link[0].href
-        var iniciaId=objYT.feed.entry[vidNum].link[0].href.indexOf("v=")+2;
-        var idBruto=videoLink.substr(iniciaId);
-        var terminaId=idBruto.indexOf("&feature");
-        var idNeto=idBruto.substr(0,terminaId);
+        var idNeto=objYT.items[vidNum].snippet.resourceId.videoId;
         return idNeto;
 }
 function pintaClusters(){
@@ -331,7 +335,7 @@ function pintaClusters(){
 function pintaVideos (){ 
     for (var i in totalDeVideos) {
         var videoId=obtenId(i);
-        var videoTitle=objYT.feed.entry[i].title.$t;
+        var videoTitle=objYT.items[i].title;
 
         $("#videoContainer #"+i+" iframe").attr( "src", "//www.youtube.com/embed/"+videoId+"?rel=0&amp;autohide=1&amp;showinfo=0" );
         $("#videoContainer #"+i+" .tituloVideo").html(videoTitle);
