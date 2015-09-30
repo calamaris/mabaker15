@@ -25,29 +25,33 @@ $(document).ready(function(){
     prodInit();
   };
 });
-
+var imagenNormal=true;
 var rutaResp="url(shared/img/slider/slideMovil/";
 var rutaNorm="url(shared/img/slider/";
 function responsiveSlider () {
 
-  if ($("body").width()<=768) {
+  if ($("body").width()<=768 && imagenNormal) {
     // console.log("<--------> se activa el responsive");
     // console.log(slidesTotales,"<-- slides totales");}
-      $(".slide").css("background-image","");
+      //$(".slide").css("background-image","");
       for (var i=0; i<=slidesTotales; i++){
         // console.log(i,"hola")
         
-        var ruta=$("#slide"+Number(i+1)).css("background-image");
+        var ruta=$(".slide").eq(i).css("background-image");
         //console.log(ruta);
-        var imgName=ruta.substr(ruta.indexOf("slider")+7);
-        //console.log(imgName);
+        var imgName=ruta.substr(ruta.lastIndexOf("slider")+7);
+        console.log(imgName);
         var nuevaRuta=rutaResp+imgName;
-        console.log(nuevaRuta);
-        $("#slide"+(i+1)).css("background-image",nuevaRuta);
+        console.log(imgName);
+        $(".slide").eq(i).css("background-image",nuevaRuta);
+        imagenNormal=false;
       }
-  }else{
-       $(".slide").css("background-image","");
+  }else if($("body").width()>=768){
+      $(".slide").css("background-image","");
+      sliderEsp=true;
+      imagenNormal=true;
   }
+  imagenesIngles()
 
 }
 function preload(arrayOfImages) {
@@ -81,7 +85,7 @@ function miniatura (nombre) {
   var toGo;
   var tiempo=8000;
   var intervalo;
-
+  var sliderEsp=true;
 
   function intervalManager(flag, funcion, tiempo) {
      if(flag){
@@ -93,7 +97,28 @@ function miniatura (nombre) {
      }
       
   }
-
+  function imagenesIngles () {
+    var contenedor=$("#sliderWrapper").children();
+    var $s=$(".slide");
+    if (lang == 1 && sliderEsp) {
+      console.log("paso idioma")
+      for (var j in contenedor) {
+        var ruta=$s.eq(j).css("background-image");
+        //console.log(i)
+        if (!ruta) {
+          //console.log("indefinido", ruta)
+        }else{
+          var rutaNoFormato = ruta.substr(0, ruta.lastIndexOf('.')) || ruta;
+          
+          //console.log( rutaIngles )
+          var rutaIngles=rutaNoFormato+"@ingles.jpg";
+          $s.eq(j).css("background-image", rutaIngles);
+          sliderEsp=false;
+        }
+        
+      };
+    };
+  }
   function calcula () {
     slidesTotales = $("#sliderWrapper").children().length-1;
     sliderWidth = $("#slider").width();
