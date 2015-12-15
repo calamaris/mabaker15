@@ -98,7 +98,7 @@ var Productos ={
             /* --------------- producto ---------------  */
 
             {
-                "nombre": ["Benzonato" , "Sodium Benzoate"],
+                "nombre": ["Benzoato" , "Sodium Benzoate"],
 
                 "subtitulo" : ["", ""],
 
