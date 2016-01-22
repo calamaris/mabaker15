@@ -6,7 +6,7 @@ var objIdioma={
 		{"sel":".tFondant", "content": ["Fondant", "Fondant"]},
 		{"sel":".tgelatina", "content": ["Gelatina artística", "Artistic Jelly"]},
 		{"sel":".tGalleta", "content": ["Galletas decoradas", "Decorates cookies"]},
-		{"sel":".tBombon", "content": ["Bombón", "marshmallow"]},
+		{"sel":".tBombon", "content": ["Bombón", "Marshmallow"]},
 		{"sel":".tPastel", "content": ["Pastel de crema", "Cream cake"]},
 		{"sel":".tPanaderia", "content": ["Panadería", "Bakery"]},
 		{"sel":".tEmpresa", "content": ["Empresa", "About us"]},
