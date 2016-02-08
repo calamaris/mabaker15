@@ -95,7 +95,7 @@ nav ul li#prod{
 nav ul li{
 	position: relative;
 	float: left;
-	padding: 13px 2.4%;
+	padding: 13px 1%;
 	background: url(../img/menuDivisor.png) no-repeat right;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;

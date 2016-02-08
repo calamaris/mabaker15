@@ -8,7 +8,7 @@
 	<!-- <link rel='alternate' hreflang='es' href='http://mabaker.com/us-es' /> -->
 	<!-- <link rel="image_src"> -->
 </head>
-<body >
+<body>
 
 	<?php include("includes/header.php"); ?>
 
@@ -16,7 +16,7 @@
 		<div id="fixHeader" data-0="height:154px" data-300="height:59px"></div>
 		<section id="slider">
 			<div id="sliderWrapper">
-			    <!-- <a href="http://www.expopan.com/"><div class="slide" id="slide29C"></div></a> -->
+			    <a href="#"><div class="slide" id="slide29C"></div></a>
 				<a href="endurecedorFondant.php"><div class="slide" id="slide2"></div></a>
 				<a href="colorChocolate.php"><div class="slide" id="slide3"></div></a>
 				<a href="colorEnPolvo.php"><div class="slide" id="slide4"></div></a>
