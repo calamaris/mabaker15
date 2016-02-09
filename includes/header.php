@@ -41,10 +41,6 @@
 				<a href="contacto.php">
 					<li id="contacto" class="tContacto">Contacto</li>
 				</a>
-
-				<a href="distribuidores.php">
-					<li id="distribuidoresH" class="tdistribuidores">Distribuidores</li>
-				</a>
 				
 			</ul>
 			<div id="redesZ">
