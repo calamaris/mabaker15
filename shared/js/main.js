@@ -2,10 +2,10 @@ $(document).ready(function(){
   // window.localStorage.setItem('lang',0);
   checaIdioma ();
   cambiaIdioma ();
-	calcula();
+  calcula();
   intervalManager(true, mueveAuto, tiempo);
   resposiveScript();
-	var s = skrollr.init();
+  var s = skrollr.init();
   
   preload([
            'shared/img/miniaturas/galletas.png',
@@ -26,24 +26,25 @@ $(document).ready(function(){
   };
 });
 var imagenNormal=true;
-var rutaResp="url(shared/img/slider/slideMovil/";
-var rutaNorm="url(shared/img/slider/";
+var rutaResp='url("shared/img/slider/slideMovil/';
+var rutaNorm='url("shared/img/slider/';
 function responsiveSlider () {
 
   if ($("body").width()<=768 && imagenNormal) {
-    // console.log("<--------> se activa el responsive");
-    // console.log(slidesTotales,"<-- slides totales");}
+    //console.log("<--------> se activa el responsive");
+    //console.log(slidesTotales,"<-- slides totales");
       //$(".slide").css("background-image","");
       for (var i=0; i<=slidesTotales; i++){
-        // console.log(i,"hola")
+         //console.log(i," ", ruta )
         
         var ruta=$(".slide").eq(i).css("background-image");
         //console.log(ruta);
         var imgName=ruta.substr(ruta.lastIndexOf("slider")+7);
-        console.log(imgName);
+        //console.log(imgName);
         var nuevaRuta=rutaResp+imgName;
-        console.log(imgName);
-        $(".slide").eq(i).css("background-image",nuevaRuta);
+        //console.log("---",nuevaRuta);
+        //$(".slide").eq(i).css("background-image", nuevaRuta);
+        $(".slide").eq(i).attr("style", 'background-image:'+nuevaRuta );
         imagenNormal=false;
       }
   }else if($("body").width()>=768){
@@ -51,7 +52,7 @@ function responsiveSlider () {
       sliderEsp=true;
       imagenNormal=true;
   }
-  imagenesIngles()
+  //imagenesIngles()
 
 }
 function preload(arrayOfImages) {
@@ -71,8 +72,8 @@ function resposiveScript () {
 }
 
 function miniatura (nombre) {
-	var img = nombre;
-	$("#miniaturaSmenu img").attr("src", "shared/img/miniaturas/"+img+".png");
+  var img = nombre;
+  $("#miniaturaSmenu img").attr("src", "shared/img/miniaturas/"+img+".png");
 }
 
 
@@ -122,8 +123,8 @@ function miniatura (nombre) {
   function calcula () {
     slidesTotales = $("#sliderWrapper").children().length-1;
     sliderWidth = $("#slider").width();
-    $(".slide").width(sliderWidth);
     responsiveSlider();
+    $(".slide").width(sliderWidth);
   }
   
   function mueveAuto () { 
