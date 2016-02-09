@@ -831,7 +831,7 @@ footer a{
 		left: 0;
 	}
 	nav.active > ul{
-		height: 253px;
+		height: 205px;
 		border-bottom: 3px solid rgb(200, 200, 200);
 	}
 	nav ul li{
