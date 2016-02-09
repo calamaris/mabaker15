@@ -256,9 +256,7 @@ li#prod:hover > #prodSubmenu{
 }
 
 /*------------------------------SLIDES*/
-#slide1{
-	background-image: url(../img/slider/MexiPan.jpg);
-}
+
 #slide2{
 	background-image: url(../img/slider/CMC.jpg);
 }
