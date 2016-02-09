@@ -66,7 +66,7 @@
 									<img src="shared/img/productos/productos320/Benzonato.png" width="100%"  />
 									<div class="texto">
 										<div class="texto1" id="tBenzonato">
-											Benzoato 
+											Benzonato 
 										</div>
 										<div class="texto2" id="tBenzonato2">
 											
@@ -403,7 +403,7 @@
 									<img src="shared/img/productos/productos320/Lectina.png" width="100%"  />
 									<div class="texto">
 										<div class="texto1" id="tLectina">
-											Lecitina
+											Lectina
 										</div>
 										<div class="texto2" id="tLectina2">
 										de Soya
