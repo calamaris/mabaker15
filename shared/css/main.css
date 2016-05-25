@@ -364,8 +364,22 @@ li#prod:hover > #prodSubmenu{
 }
 
 #slide29C{
+	background-image: url(../img/slider/mexiPan.jpg);
+}
+
+#slide30{
 	background-image: url(../img/slider/expoPan.jpg);
 }
+
+
+#slide31{
+	background-image: url(../img/slider/cake.jpg);
+}
+
+#slide32{
+	background-image: url(../img/slider/expoReposteria.jpg);
+}
+
 
 /*------------------------------------*/
 #seccion1{
