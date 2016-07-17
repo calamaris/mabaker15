@@ -113,19 +113,7 @@
 									</div>
 								</div> 
 							</a> <!-- producto -->
-							<a href="coberturaChiclosa.php">
-								<div class="btnProducto" >
-									<img src="shared/img/productos/productos320/CoberturaChiclosa.png" width="100%"  />
-									<div class="texto">
-										<div class="texto1" id="tCoberturaChiclosa">
-											Cobertura 
-										</div>
-										<div class="texto2" id="tCoberturaChiclosa2">
-											Chiclosa
-										</div>
-									</div>
-								</div> 
-							</a> <!-- producto -->
+					
 							<a href="coberturaDona.php">
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/CoberturaparaDona.png" width="100%"  />

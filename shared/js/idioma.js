@@ -17,6 +17,7 @@ var objIdioma={
 		{"sel":".tgerente", "content": ["Gerente de operaciones", "OCC"]},
 		{"sel":".tTodosProductos", "content": ["Todos los Productos", "All Products"]},
 		{"sel":".tContactoB", "content": ["Contacto", "Contact"]},
+		{"sel":".tGaleria", "content": ["Galería", "Gallery"]},
 		{"sel":".tGaleriaT", "content": ["¡Deja volar tu imaginación! Encuentra tu estilo y crea hermosos proyectos utilizando los productos de Ma Baker and Chef.", "Let your imagination fly! Find your style and create beautiful projects using Ma Baker and Chef products."]},
 		{"sel":".tTodosProductosT", "content": ["En Ma Baker and Chef encontrarás una amplia gama de productos y colores para darle un toque único a todas tus creaciones.", "In Ma Baker and Chef you'll find a wide range of products and colors, to give to your creations an unique touch."]},
 		{"sel":".tContactoT", "content": ["¿Tienes alguna duda o sugerencia? Rellena el formulario con tus inquietudes, y te responderemos a la brevedad.", "Do you have any comment or suggestion? Fill the form with your questions and we'll answer you as soon as possible"]},

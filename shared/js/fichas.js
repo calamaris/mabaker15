@@ -1095,7 +1095,7 @@ var Productos ={
                 "vid": [{"categoria" : "videorecetas.php"},["Hi5Ud9zWiF4","b4G4TXwyvTU","NSc6dhmt6Ts","Gd1iVmj-Nw","IUbrPbAiNAg"]], 
 
                 "pdf": [
-                        [{"ruta":"transfer_para_chocolate_2014.pdf","thumb":"transfer_para_chocolate_2014.png"}] ,
+                        [{"ruta":"transfer_para_chocolate.pdf","thumb":"transfer_para_chocolate.png"}] ,
                         [] 
                 ],
 

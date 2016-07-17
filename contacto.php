@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-	<meta name="description" content="Free Web tutorials">
+	<meta name="description" content="contacto">
 	<meta name="keywords" content="HTML,CSS,XML,JavaScript">
 	<title>Ma Baker and Chef</title>
 	<?php include("includes/head.php"); ?>
