@@ -17,7 +17,7 @@
 		<section id="slider">
 			<div id="sliderWrapper">
 				<a href="http://www.expopan.com/"><div class="slide" id="slide30"></div></a>
-				<a href="#"><div class="slide" id="slide32"></div></a>
+				<!-- <a href="#"><div class="slide" id="slide32"></div></a> -->
 				<a href="#"><div class="slide" id="slide29C"></div></a>
 			    <a href="#"><div class="slide" id="slide31"></div></a>
 				<a href="endurecedorFondant.php"><div class="slide" id="slide2"></div></a>
