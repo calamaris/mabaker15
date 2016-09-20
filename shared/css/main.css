@@ -380,6 +380,22 @@ li#prod:hover > #prodSubmenu{
 	background-image: url(../img/slider/salonChoco.jpg);
 }
 
+#slide33{
+	background-image: url(../img/slider/BrilloParaChocolate.jpg);
+}
+
+#slide34{
+	background-image: url(../img/slider/ColorChocolate2.jpg);
+}
+
+#slide35{
+	background-image: url(../img/slider/ColoresMetalicos.jpg);
+}
+
+#slide36{
+	background-image: url(../img/slider/ZapatillaParaChocolate.jpg);
+}
+
 
 /*------------------------------------*/
 #seccion1{
