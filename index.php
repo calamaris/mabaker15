@@ -16,7 +16,6 @@
 		<div id="fixHeader" data-0="height:154px" data-300="height:59px"></div>
 		<section id="slider">
 			<div id="sliderWrapper">
-			    <a href="#"><div class="slide" id="slide31"></div></a>
 			    <a href="#"><div class="slide" id="slide33"></div></a>
 			    <a href="#"><div class="slide" id="slide34"></div></a>
 			    <a href="#"><div class="slide" id="slide35"></div></a>
