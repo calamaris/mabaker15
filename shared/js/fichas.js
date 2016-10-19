@@ -71,12 +71,12 @@ var Productos ={
                 "subtitulo" : ["", ""],
 
                 "desc": [
-                  "<br>Cristales translúcidos incoloros o polvo cristalino blanco. Inodoro o prácticamente inodoro y con fuerte sabor ácido.<br> <strong>SOLUBILIDAD:</strong> Muy soluble en agua.",
+                  "<br>Cristales traslúcidos incoloros o polvo cristalino blanco. Inodoro o prácticamente inodoro y con fuerte sabor ácido.<br><br>  <strong>SOLUBILIDAD:</strong> Muy soluble en agua. ", 
                   "<br>Colorless translucent crystals or crystalline white powder.<br> Odorless with a strong acid flavor.<br> <strong>Solubility:</strong> Water soluble."
                 ],
 
                 "modo":[
-                  "<br>En bebidas y jarabes como acidulante/  y para prevenir la turbidez y deterioro  del color y el sabor.  En frutas y vegetales enlatados:  Contribuye  a asegurar el sabor y apariencia  originales.  Caramelos  Refuerza el sabor de frutas y otros ingredientes. Gelatinas, Jaleas,  Compotas: Además de dar sabor/ayuda a ajustar el pH para optimizar  la acción de la grenetina y la pectina. ",
+                  "<br>En bebidas y jarabes como acidulante y para prevenir la turbidez y deterioro del color y el sabor.<br><br> En frutas y vegetales enlatados: Contribuye a asegurar el sabor y apariencia originales. <br><br> Caramelos: Refuerza el sabor de frutas y otros ingredientes.<br><br> Gelatinas, Jaleas, Compotas: Además de dar sabor, ayuda a ajustar el pH para optimizar la acción de la grenetina y la pectina. ",
                   "<br>In beverages and syrups as acidulant. To prevent turbidity and deterioration of the color and flavor.<br> In canned fruits and vegetables: contributes to ensure the original flavor and appearance.<br> Caramels: Beefs up the flavor of the fruits and other ingredients.<br> Jellies and compotes: besides bringing flavor, helps to adjust the HP in order to optimize the acting of the pectin and unflavored jelly. "],
 
                 "imagen": "AcidoCitrico.png",
@@ -108,8 +108,8 @@ var Productos ={
                 ],
 
                 "modo":[
-                  "<br>Es un conservador que inhibe la actividad de los microrganismos tales como levaduras, bacterias y mohos. Funciona a un pH menor o igual a 4.5. Es importante que se adicione al producto que va a perseverar desde los primeros pasos de fabricación, con una homogeneización adecuada a fin de garantizar la correcta distribución del  conservador.   La dosis máxima permitida en alimentos es de 0.1%. Puede emplearse en: Bebidas carbonatadas, jarabes para bebidas, sidra, encurtidos y vinagres, frutas y jugos de frutas, mermeladas y jaleas, aderezos, salsas y condimentos.<br>  <strong>Almacenamiento:</strong> En recipientes bien cerrados. En lugar fresco y seco.",
-                  "<br>Is a conservative that inhibit the activity of microorganisms such as yeast, bacteria and mould Works to an Hp of 4.5 or less. Is important to add the sodium benzoate, to the products you’re gonna preserve, since the beginning of the manufacturing with an appropriate homogenization, in order to guarantee the right distribution of the conservative.<br> The maximum permitted dose in the food is 0.1%, and it can be applied to carbonated beverages, syrups, cider, pickles, vinegars, fruits, juices, jams, jellies, sauces, garnishes and condiments.<br> <strong>Storage:</strong>In sealed containers and in a fresh and dry place. "],
+                  "<br>Es un conservador que inhibe la actividad de los microorganismos tales como levaduras, bacterias y mohos. Funciona a un pH menor o igual a 4.5. Es importante que se adicione al producto que va a preservar, desde los primeros pasos de fabricación, con una homogeneización adecuada a fin de garantizar la correcta distribución del conservador. La dosis máxima permitida en alimentos es de 0.1%. Puede emplearse en: Bebidas carbonatadas, jarabes para bebidas, sidra, encurtidos y vinagres, frutas y jugos de frutas, mermeladas y jaleas, aderezos, salsas y condimentos.<br> <strong>Almacenamiento:</strong> En recipientes bien cerrados. En un lugar fresco y seco.", 
+                  "<br>Is a conservative that inhibit the activity of microorganisms such as yeast, bacteria and mould Works to an Hp of 4.5 or less. Is important to add the sodium benzoate, to the products you’re gonna preserve, since the beginning of the manufacturing with an appropriate homogenization, in order to guarantee the right distribution of the conservative.<br> The maximum permitted dose in the food is 0.1%, and it can be applied to carbonated beverages, syrups, cider, pickles, vinegars, fruits, juices, jams, jellies, sauces, garnishes and condiments.<br> <strong>Storage:</strong>In sealed containers and in a fresh and dry place."],
 
                 "imagen": "Benzoato.png",
 
@@ -136,7 +136,7 @@ var Productos ={
                 "subtitulo" : ["", ""],
 
                 "desc": [
-                  "<br>El brillo en los objetos los hace atractivo y obliga a voltear para ver de donde procede ese brillo, en los alimentos los hace que se vean frescos y como recién hechos, ayude a sus postres y panes a que tengan ese atractivo, el brillo para fruta alarga la vida de anaquel de la fruta ya que protege a la fruta de la oxidación natural y al pan da esa característica de recién hecho.<br><br>   <strong>CUALIDADES PARA PAN.</strong><br>   - Presentaciones 5Kg., y 20 Kg.<br>  - Aplicación con brocha a su pan. <br> - Sabor natural y chabacano.<br>  - Muy rendidor.<br>  - Brillo que proporciona luminosidad y no se pega con el papel.<br>  - Textura liquido.<br><br>   <strong>CUALIDADES PARA FRUTA.</strong><br> - Presentaciones 350 g., 5Kg., y 20 Kg.<br>  - Aplicación directa a la fruta.<br>  - Sabor natural.<br>  - Muy rendidor.<br>  - Brillo que proporciona luz y hace ver a sus postres como recién hechos.<br>  - Textura liquido, liquido espeso.<br>  - Novedad en spray para fruta solamente en la presentación de 350 gr.",
+                  "<br>El brillo en los objetos los hace atractivos y obliga a voltear para ver de dónde procede ese brillo, en los alimentos los hace que se vean frescos y como recién hechos.<br><br> Ayude a sus postres y panes a que tengan ese atractivo; El brillo para fruta alarga la vida de anaquel de la fruta, ya que la protege de la oxidación natural, y le da al pan esa sensación de recién hecho.<br><br> <strong>CUALIDADES PARA PAN.</strong><br><br> - Presentaciones 5Kg., y 20 Kg.<br><br> - Aplicación con brocha directo a su pan.<br><br> - Sabor natural y a chabacano.<br><br> - Muy rendidor.<br><br> - Brillo que proporciona luminosidad y no se pega con el papel.<br><br> - Textura líquida.<br><br> <strong>CUALIDADES PARA FRUTA.</strong><br><br> - Presentaciones 350 g., 5Kg., y 20 Kg.<br><br> - Aplicación directa a la fruta.<br><br> - Sabor natural.<br><br> - Muy rendidor.<br><br> - Brillo que proporciona luz y hace ver a sus postres como recién hechos.<br><br> - Textura líquida espesa.<br><br> - Presentación en spray para fruta solamente en la presentación de 350 gr. ", 
                   "<br>The brightness in different objects make them more attractive and force everyone to turn their heads to see where the brightness come from; In the food, makes them look fresh and freshly made, help your desserts and breads to get that attractive look.<br> The fruit gloss makes longer the shelf life, because protects it of the natural oxidation; and makes the bread look freshly made.<br><br> <strong>Qualities for bread:</strong><br> 5kg and 20kg presentations.<br> Direct application to the bread with a brush.<br> Natural and apricot flavor.<br> High yield.<br> Gloss that brings lightness and doesn’t stick on the paper.<br> Liquid texture. <br><br> <strong>Qualities for fruit:</strong><br> 350gr, 5kg and 20kg presentations.<br> Direct application to the fruit.<br> Natural flavor.<br> High yield.<br> Gloss that brings lightness and makes your desserts look freshly made.<br> Liquid and liquid-thick textures.<br> Fruit spray only in the 350gr presentation. "
                 ],
 
@@ -168,7 +168,7 @@ var Productos ={
                 "subtitulo" : ["", ""],
 
                 "desc": [
-                  "<br>Se añade por encima del flan, pero no acaba ahí la cosa, el hacer un caramelo “único” implica tener más creatividad y audacia, porque se podría hacer este caramelo a la flor con pétalos de diferentes flores, o de mil maneras, nosotros lo elaboramos a la Vainilla Mexicana con ese sabor que nos identifica en cualquier parte del mundo.<br><br>   <strong>Presentaciones 100 gr 350 gr y 1L.</strong><br> - Aplíquese encima del flan.<br>  - Alta definición de sabor al degustar.<br> - Horneable.",
+                  "<br>Se añade por encima del flan, pero la cosa no acaba ahí.<br><br> Para hacer un caramelo único, es necesario tener más creatividad y audacia. Puede utilizar este caramelo sobre pétalos de diferentes flores, o de mil maneras. Está elaborado con vainilla mexicana, con ese sabor que nos identifica en cualquier parte del mundo.<br><br> <strong>Presentaciones 100 gr 350 gr y 1L.</strong><br><br> - Aplíquese encima del flan.<br><br> - Sabor de alta definición.<br><br> - Horneable.<br><br> ", 
                   "<br>The caramel colors are shapeless and dun products, result of the extremely careful heat carbohydrates treatment, in presence of small quantities of acids and salts. The chemistry of the caramel is complex and hard to tell in simple terms.<br> The biggest carbohydrates molecules are size-reduced under the influence of acids, heat and pressure. So, is made some kind of condensation or polymerization where the simple sugars are re-combined in bigger unities, some of which are complex colorful structures.<br> Some of them are alike to those who are found in the roasted coffee, cooked meat and baked products. Caramel colors are essentially water-dispersible colloidal aggregates, partially dispersible in alcohol-water solutions.  The caramel color is a red-brown to black liquid.<br> The caramel color is used in alcoholic beverages, sweets, bakery, carbonated beverages, etc. One of the most important properties of the caramel color, are the isoelectric points that characterizes and determines the nature of the products you’re gonna color. "
                 ],
 
@@ -200,7 +200,7 @@ var Productos ={
                 "subtitulo" : ["", ""],
 
                 "desc": [
-                  "<br>Cobertura para dona donde los colores son mas brillantes y los sabores gourmet.<br> <strong>7 Sabores diferentes:</strong> Vainilla, Fresa, Chocolate, Lima, Maple, Limón, Naranja, Avellana.<br><br> - Presentaciones 1 Kg., 5Kg. y 20 Kg.<br>  -Aplíquense en caliente semisólida la cobertura.<br>  - Alta definición de sabor al degustar.<br>  - Textura pastosa facilitando la aplicación.",
+                  "<br>Cobertura para dona, con colores más brillantes y sabores gourmet.<br><br> <strong>7 Sabores diferentes: </strong>Vainilla, Fresa, Chocolate, Lima, Maple, Limón, Naranja, Avellana.<br><br> - Presentaciones 1 Kg., 5Kg. y 20 Kg.<br><br> - Aplíquense cuando esté caliente.<br><br> - Sabor de alta definición.<br><br> - Textura pastosa facilitando la aplicación.<br><br> ", 
                   "<br>Donut covering where the colors are brighter and the flavors are gourmet.<br> <strong>7 different flavors:</strong> Vanilla, strawberry, chocolate, lime, maple, lemon, orange and hazelnut.<br><br> 1Kg, 5Kg and 20kg presentations.<br> Apply the semisolid hot cover.<br> High definition flavor at taste.<br> Pasty texture that makes easier the application. "
                 ],
 
@@ -231,7 +231,7 @@ var Productos ={
                 "subtitulo" : ["", ""],
 
                 "desc": [
-                  "<br>Cobertura sabor chocolate para tu fuente de chocolate, paletas heladas, frutas y cereales y todo lo que se te ocurra.<br><br> -Presentaciones 1kg.<br> -Aplíquese ya fundida (2 minutos continuos en el microondas).<br> -Ideal para paletas heladas, frutas, cereales, etc. ", 
+                  "<br>Cobertura sabor chocolate para tu fuente de chocolate, paletas heladas, frutas, cereales y todo lo que se te ocurra.<br><br> -Presentaciones 1kg.<br><br> -Aplíquese ya fundida (2 minutos continuos en el microondas).<br><br> -Ideal para paletas heladas, frutas, cereales, etc. ", 
                   "<br>Chocolate flavored cover for your chocolate fountain, popsicles, fruits, cereals and anything you want.<br><br> -Chocolate flavor with a touch of hazelnut.<br> -1kg presentations<br> -Apply when it’s already molten (2 minutes in the microwave)<br> -Ideal for popsicles, fruits, cereals, etc. "
                 ],
 
@@ -263,12 +263,12 @@ var Productos ={
                 "subtitulo" : ["", ""],
 
                 "desc": [
-                  "<br>Cobertura sabor tamarindo Ideal para paletas de frutas (manzanas, mangos, etc.)<br><br>   Cobertura sabor tamarindo. Presentación 1 Kg.",
+                  "<br>Cobertura sabor tamarindo Ideal para paletas de frutas (manzanas, mangos, etc.)<br><br> Presentación 1 Kg. ", 
                   "<br>Tamarind flavored cover ideal for fruit popsicles, apples, mangos, etc.<br><br> Tamarind flavored cover. 1kg presentations."
                 ],
 
                 "modo":[
-                  "<br>Calentar en el microondas hasta tibiar (3 lapsos de 30 segundos aproximadamente) , cubrir la manzana girándola dentro de la cobertura y terminarla adicionando chile piquin, miguelito, etc",
+                  "<br>Calentar en el microondas hasta tibiar (3 lapsos de 30 segundos aproximadamente), cubrir la manzana girándola dentro de la cobertura y terminarla adicionando chile piquín, miguelito, etc.",
                   "<br>Put into the microwave until is warm, for about 1:30 minutes, then cover the apple spinning it around in the tamarind cover, and finally add some piquin chili or “miguelito”."],
 
                 "imagen": "CoberturaTamarindo.png",
@@ -357,11 +357,11 @@ var Productos ={
                 "subtitulo" : ["", ""],
 
                 "desc": [
-                  "<br>Colores para chocolate en manteca de cacao en presentación de 55 gr y 220 gr<strong> “16 colores diferentes”.</strong><br>Amarillo, Azul cielo, Azul marino, Azul Rey, Blanco, Café, Fucsia, Morado, Naranja, Negro, Rojo, Rosa, Verde bosque, Verde hoja, Vino, Violeta.<br><br>  Colores para chocolate metálico en manteca de cacao en presentación de 55 gr y 220 gr<strong> “7 colores diferentes”.</strong><br> Oro, Plata, Cobre, Verde, Morado, Rojo, Azul.<br><br>   - Presentaciones 55 gr y 220 g.<br> - Aplicación directa a un molde o al chocolate.<br> - 16 colores mate y 7 colores metálicos que permite tener más precisión del color.<br> - Fácil dosificación.<br> - Textura sólida.<br> - Aditivo de grado alimenticio que proporciona color.<br> - Sabor característico a la manteca de cacao.<br> - Colores autorizados FDA (Food and Drug Administracion)<br> - Colores con Certificación KOSHER.",
+                  "<br>Colores para chocolate en manteca de cacao, en presentación de 55 gr y 220 gr. <br><br> <strong>16 colores diferentes: </strong>Amarillo, Azul cielo, Azul marino, Azul Rey, Blanco, Café, Fucsia, Morado, Naranja, Negro, Rojo, Rosa, Verde bosque, Verde hoja, Vino, Violeta.<br><br> Colores para chocolate metálico en manteca de cacao en presentación de 55 gr y 220 gr.<br><br> <strong>7 colores diferentes:</strong> Oro, Plata, Cobre, Verde, Morado, Rojo, Azul.<br><br> - Presentaciones 55 gr y 220 g.<br><br> - Aplicación directa al molde o chocolate.<br><br> - 16 colores mate y 7 colores metálicos que permiten tener más precisión del color.<br><br> - Fácil dosificación.<br><br> - Textura sólida.<br><br> - Aditivo de grado alimenticio que proporciona color.<br><br> - Sabor característico a la manteca de cacao.<br><br> - Colores autorizados FDA (Food and Drug Administration)<br><br> - Colores con Certificación KOSHER. ", 
                   "<br>Cocoa butter chocolate colors in 55 gr. And 220gr presentations with <strong>16 different colors:</strong> Yellow, Sky Blue, Navy Blue, King Blue, White, Brown, Fucsia, Purple, Orange, Black, Red, Pink, Forest Green, Leafy Green, Wine, violet.<br><br> Cocoa butter chocolate metallic colors in 55 gr. And 220gr. Presentations and <strong>7 different colors:</strong> Gold, Silver, Copper, Green, Purple, Red and Blue.<br><br> 55gr. And 220gr. Presentations Direct application to the chocolate or to a mold<br> 16 matte and 7 metallic colors, which allows you to be more accurate in the color you get.<br> Easy dosing.<br> Solid texture.<br> Food grade additive that brings color.<br> Cocoa butter characteristic flavor.<br> Authorized colors by the FDA.<br> Kosher certified colors."],
 
                 "modo":[
-                  "<br>Caliéntese en baño maría o en el microondas “recomendado” de 20 en 20 segundos hasta que se haga liquido, dejar bajar la temperatura  28 °C, dosificar con pincel según necesidad puede ser directamente al chocolate o al molde, has figuras y diviértete creando y hechando a volar tu imaginacón.",
+                  "<br>Caliéntese en baño maría o en el microondas (recomendado) de 20 en 20 segundos hasta que se haga líquido, deja bajar la temperatura hasta los 28 °C, dosifica con el pincel según tus necesidades.<br><br> Puede ser directamente al chocolate o al molde, haz figuras y diviértete creando y echando a volar tu imaginación.<br><br> ", 
                   "Warm up using a water bath or the microwave. We suggest you to warm it up in 20 by 20 seconds until it’s completely liquid, let the temperature get down by 28°C and then dose it  with a paintbrush according to your needs; it can be directly to the mold or to the chocolate. Make some figures and have fun creating and blowing up your imagination."
                 ],
 
@@ -388,12 +388,12 @@ var Productos ={
                 "subtitulo" : ["", ""],
 
                 "desc": [
-                  "<br><strong>20 Colores diferentes en Presentación Tarro 100 gr. y 1 Kg.</strong> <br> Amarillo Canario, Amarillo Huevo, Amarillo Limón, Amarillo Naranja, Azul Cielo, Azul Rey, Café, Caramelo, Chocolate, Naranja Rojizo, Negro, Rojo Cochinilla, Rojo Fresa, Rojo Grosella, Rosa, Rosa Brillante, Verde Esmeralda, Verde limón, Violeta y Uva.<br><br>  - Presentaciones 100 g. y 1Kg.<br> - En concentraciones del 12.5% y del 25%.<br> - Aplicación en dilución a la mas.<br>  - 20 colores que permite tener más precisión del color.<br> - Obtenemos tonos específicos y de alta concentración.<br> - Textura en polvo facilitando la aplicación del color.<br> - Aditivo de grado alimenticio que proporciona color.<br>  - Colores certificados FDA (Food and Drug Administration.<br>  - Colores con Certificación KOSHER.",
+                  "<br><strong>20 Colores diferentes en Presentación de Tarro de 100 gr. y 1 Kg.</strong><br><br> Amarillo Canario, Amarillo Huevo, Amarillo Limón, Amarillo Naranja, Azul Cielo, Azul Rey, Café, Caramelo, Chocolate, Naranja Rojizo, Negro, Rojo Cochinilla, Rojo Fresa, Rojo Grosella, Rosa, Rosa Brillante, Verde Esmeralda, Verde limón, Violeta y Uva.<br><br> - Presentaciones 100 g. y 1Kg.<br><br> - En concentraciones del 12.5% y del 25%..<br><br> - Para la aplicación es necesario diluir. .<br><br> - 20 colores que permite tener más precisión del color. .<br><br> - Obtenemos tonos específicos y de alta concentración. .<br><br> - Textura en polvo facilitando la aplicación del color. .<br><br> - Aditivo de grado alimenticio que proporciona color. .<br><br> - Colores certificados por la FDA (Food and Drug Administration. .<br><br> - Colores con Certificación KOSHER. .<br><br> ", 
                   "<br><strong>20 different colors in 100gr and 1kg jar presentations</strong><br> Canary yellow, egg yellow, lemon yellow, orange yellow, sky blue, king blue, brown, caramel, chocolate, red orange, black, cochineal red, strawberry red, gooseberry red, pink, bright pink, grape, emerald green, lemon green, violet.<br><br> -100gr and 1kg presentations.<br> -12.5 and 25% concentrations.<br> -Direct application to the dough.<br> -20 colors that allows you to be more precise.<br> -We get high concentration and specific tones.<br> -Powder texture that makes easier the application of the color.<br> -Food grade additive that brings color.<br> -Doesn’t bring odor or flavor.<br> -Supported by the FDA.<br> -KOSHER certified colors. "
                 ],
 
                 "modo":[
-                  "<br>Dosificar en dilución a la masa o harina y colorear al gusto.",
+                  "<br>Dosificar cuando esté diluida, directamente a la masa o harina y colorear al gusto.",
                   "<br>Dose directly to the dough and color at your own taste."
                 ],
 
@@ -421,7 +421,7 @@ var Productos ={
                 "subtitulo" : ["", ""],
 
                 "desc": [
-                  "<br>Los cortadores son útiles y fáciles de usar, se muestra un ejemplo de como podrían decorar su galleta además de la receta para hornearla.",
+                  "<br>Los cortadores son útiles y fáciles de usar, se muestra un ejemplo de cómo podrían decorar su galleta, además de la receta para hornearla.",
                   "<br>These cutters are useful and easy to use. (Below is shown some examples of how to decorate your cookies, and also the baking recipe)."
                 ],
 
@@ -453,12 +453,12 @@ var Productos ={
                 "subtitulo" : ["", ""],
 
                 "desc": [
-                  "<br>Bitartrato de potasio, también conocido como hidrogeno-tratado de potasio, tiene la fórmula KC4H506. Es un subproducto de la producción de vino. En cocina es conocido como crémor tártaro. Es la sal acída del potasio del ácido tartárico con ácido carboxílico.<br> El bitartaro de potasio se cristaliza en las barricas de vinos durante la fermentación del jugo de uvas, y pueden precipitarse del vino en las botellas. Esta forma cruda (conocida también como capa de tártaro) es almacenada y purificada para producir el polvo blanco e inodoro utilizado con gran frecuencia en varias actividades culinarias.",
+                  "<br>Bitartrato de potasio, también conocido como hidrogeno-tratado de potasio, tiene la fórmula KC4H506. Es un subproducto de la producción de vino. En cocina es conocido como crémor tártaro. Es la sal acida del potasio del ácido tartárico con ácido carboxílico.<br><br> El bitartaro de potasio se cristaliza en las barricas de vinos durante la fermentación del jugo de uvas, y pueden precipitarse del vino en las botellas. Esta forma cruda (conocida también como capa de tártaro) es almacenada y purificada para producir el polvo blanco e inodoro utilizado con gran frecuencia en varias actividades culinarias.<br><br> ", 
                   "<br>Tartar cream, also known as potassium treated hydrogen, has the KC4H506 formula. Is a by-product of wine, and is known as tartar cream in cooking. Is the acid salt of potassium’s tartaric acid, with carboxylic acid.<br> The potassium tartrate crystallizes in the barrels of wine during fermentation of grape juice and wine, and it can be precipitated directly from the bottles. This raw form is stored and purified to produce white odorless powder, often used in several culinary activities. "
                 ],
 
                 "modo":[
-                  "<br><strong>Es utilizado para:</strong><br> - La estabilización de las claras de huevo, aumentando su tolerancia al calor y volumen.<br> - Prevenir de cristalización a los jarabes de azúcar;<br>  - Reducción de la decoración de verduras hervidas;<br> - Frecuente combinación con bicarbonato de sodio (el cual necesita un ingrediente ácido para activarlo) en las formulaciones de levadura química o polvo de hornear.<br> - Se suele utilizar en combinación con cloruro de potasio en sustitutos de la sal libres de sodio.<br> - Glaseado en las casas de pan de jengibre.",
+                  "<br><strong>Es utilizado para:</strong><br><br> - La estabilización de las claras de huevo, aumentando su tolerancia al calor y volumen.<br><br> - Prevenir de cristalización a los jarabes de azúcar;<br><br> - Reducción de la decoloración de verduras hervidas;<br><br> - Frecuente combinación con bicarbonato de sodio (el cual necesita un ingrediente ácido para activarlo) en las formulaciones de levadura química o polvo de hornear. <br><br> - Se suele utilizar en combinación con cloruro de potasio en sustitutos de sal libres de sodio. <br><br> - Glaseado en las casas de pan de jengibre. <br><br> ", 
                   "<br>Stabilize egg whites, increasing its volume and heat tolerance.<br> Prevent crystallization in sugar syrups.<br> Reduce discoloration of boiled vegetables.<br> Combination with sodium bicarbonate (that needs an acidic ingredient to get activated) in the formulations of baking powder.<br> In combination with potassium chloride, in sodium-free salt substitutes.<br> A similar acid salt, the acid sodium pyrophosphate, can be confused with the tartar cream, due to their common function as baking powder. "
                 ],
 
@@ -485,12 +485,12 @@ var Productos ={
                 "subtitulo" : ["", ""],
 
                 "desc": [
-                  "<br><strong>Presentaciones de 85 ml. y 140ml.</strong><br> Pega piezas de goma y fondant.",
+                  "<br>Presentaciones de 85 ml. y 140ml.",
                   "<br><strong>85ml. and 145ml. presentations.</strong><br> Sticks gum paste and fondant pieces. "
                 ],
 
                 "modo":[
-                  "<br>Desmolda pan cuando el molde aun esta tibio, gelatina incluso en moldes de cristal y shablones para medallones de chocolate<br>  (se recomienda aplicar desmoldante “Ma Baker and chef” en las orillas de las cavidades de los shablones para una mejor experiencia).",
+                  "<br>Desmolda el pan cuando el molde aún está tibio, la gelatina incluso en moldes de cristal y también shablones para medallones de chocolate.<br><br> (Se recomienda aplicar el desmoldante “Ma Baker and chef” en las orillas de las cavidades de los shablones para una mejor experiencia).<br><br> ", 
                   "Releases bread when the mold is still warm, jelly even in crystal molds and chocolate shablon’s medallions. (We suggest you to apply the releasing agent in the corners of the hollows of the shablon for a better experience)"
                 ],
 
@@ -517,7 +517,7 @@ var Productos ={
                 "subtitulo" : ["Destellos de Luz", "Light Sparkles"],
 
                 "desc": [
-                  "<br>Es un aditivo que proporciona destellos de colores y te sirve para decorar en tu chocolate, pasteles de fondant, galletas decoradas, cake pop's, cup cakes, gelatina artística, pastilla jet malvavisco  y muchas cosas más, diamantina  no toxica para decoración.<br><br>  <strong>”32 Colores diferentes en Presentación envase súper lujo con 6 gr.”</strong><br>   AGUA, AMARILLO DORADO, AMARILLO HUEVO, AMARILLO LIMÓN, AZUL REY, CAFÉ, CAFÉ CHOCOLATE, CARNE, COBRE, DURAZNO,  ESCARCHA, FIUCSIA, IVORY, LILA DELICADO, MAGENTA, MARFIL, NARANJA, NEGRO, ORO, PLATA, PURPURA, ROJO ROJO, ROJO VINO, ROSA MEXICANO,  ROSA PASTEL,  SUPER  ROJO, UVA, VERDE BOSQUE,  VERDE  ESMERALDA,   VERDE NEON, VIOLETA.<br><br>    - Aplicación directa.<br>  - Polvo fácil de aplicar.<br>  - No proporciona olor ni sabor.<br>  - Colores autorizados FDA (Food and Drug Administration)  ",
+                  "<br>Es un aditivo que proporciona destellos de colores y te sirve para decorar chocolate, pasteles de fondant, galletas decoradas, cake pop's, cupcakes, gelatina artística, pastillaje, malvaviscos y muchas cosas más. Diamantina no toxica para decoración.<br><br> <strong>32 Colores diferentes en Presentación envase súper lujo con 6 gr: </strong>AGUA, AMARILLO DORADO, AMARILLO HUEVO, AMARILLO LIMÓN, AZUL REY, CAFÉ, CAFÉ CHOCOLATE, CARNE, COBRE, DURAZNO, ESCARCHA, FIUCSIA, IVORY, LILA DELICADO, MAGENTA, MARFIL, NARANJA, NEGRO, ORO, PLATA, PURPURA, ROJO ROJO, ROJO VINO, ROSA MEXICANO, ROSA PASTEL, SUPER ROJO, UVA, VERDE BOSQUE, VERDE ESMERALDA, VERDE NEON, VIOLETA.<br><br> - Aplicación directa.<br><br> - Polvo fácil de aplicar. .<br><br> - No proporciona olor ni sabor. .<br><br> - Colores autorizados por la FDA (Food and Drug Administration) .<br><br> ", 
                   "<br>Is an additive that brings colorful light sparkles, it’s very useful with the chocolate, fondant cakes, decorated cookies, cake pop’s, cupcakes, artistic jellies, marshmallow jet pills and many other things. This decorative glitter is not poisonous.<br><br> <strong>32 different colors presented in 6 gr. Super luxurious packages</strong><br> Water, Golden yellow, egg yellow, lemon yellow, King blue, Brown, chocolate Brown, flesh, copper, peach, frost, fucsia, ivory, delicate lilac, magenta, orange, black, gold, silver, purple, red, wine red, Mexican pink, pastel pink, super red, grape, forest green, emerald green, neon green, violet.<br><br> -Direct application<br> -Easy application powder<br> -Doesn’t bring any flavor or smell<br> -Supported by the FDA "],
 
                 "modo":[
@@ -580,7 +580,7 @@ var Productos ={
                 "subtitulo" : ["", ""],
 
                 "desc": [
-                  "<br>El endurecedor para fondant como su nombre lo indica sirve para hacer nuestra pasta de fondant más firme y dura y alcanzar la dureza en nuestras figuras de fondant.<br><br> - Presentaciones de 100 gr.<br> - Fácil de usar.<br> - Almacenar a una temperatura entre los 18 ºC y 25 ºC. en un lugar fresco y seco.",
+                  "<br>El endurecedor para fondant, como su nombre lo indica, sirve para hacer nuestra pasta de fondant más firme y dura, y poder alcanzar la dureza en nuestras figuras de fondant.<br><br> - Presentaciones de 100 gr.<br><br> - Fácil de usar.<br><br> - Almacenar a una temperatura entre los 18 ºC y 25 ºC. En un lugar fresco y seco. ", 
                   "<br>The fondant hardener, as its name shows, it’s useful to make our fondant firmer, harder and to get the right hardness in our fondant shapes.<br><br> -100gr. Presentations<br> -Easy to use<br> -Store at a temperature between 18°C and 25°C in a fresh and dry place. "
                 ],
 
@@ -612,10 +612,10 @@ var Productos ={
                 "subtitulo" : ["", ""],
 
                 "desc": [
-                  "<br>Es el postre preferido de chicos y grande. El flan, en la época de los romanos, era conocido como “tyropatina”, y era degustado en la cuaresma; pero fue hasta aproximadamente el siglo VII que se popularizó el termino flan para llamar a este postre.<br><br> También, en esta época, se dejó de espolvorear pimienta en su superficie como acostumbraban los romanos, y se sustituyó por azúcar; hoy en día se utiliza caramelo líquido.<br><br>  <strong>Presentaciones 1Kg., y 25 Kg.</strong><br>  - Aplicación directamente en leche.<br> - Sabor cremoso y lácteo.<br> - Un Kg de polvo rinde para casi 6 Kg de Flan.<br>  - Textura en polvo.<br><br>El tamaño exacto que tú necesitas sin que lo tengas que comprar a granel, se traduce en higiene y sin contaminaciones igual a la calidad", "<br>This is the favorite dessert of the youngest and oldest. The custard, in the Romans age, was known as “tyropatina”, and was eaten in the Lent, but wasn’t until the 7th century that the name “custard” became popular on this dessert.<br><br> Also, in this age, the people stopped sprinkling pepper in the surface, as the Romans used to, and was replaced by sugar; nowadays, by liquid caramel.<br><br> <strong>1kg and 25kg presentations</strong><br> -Direct application to the milk.<br> Creamy and dairy flavor.<br> -1kg of powder yields up to 6kg of custard.<br> -Powder texture.<br><br> The accurate size you need, without buying it in bulk, translates into hygiene; Without pollution, translates into quality."],
-
+                  "<br>Es el postre preferido de chicos y grandes. El flan, en la época de los romanos, era conocido como “tyropatina”, y era degustado en la cuaresma; pero fue hasta aproximadamente el siglo VII que se popularizó el termino flan para llamar a este postre.<br><br> También, en esta época, se dejó de espolvorear pimienta en su superficie como acostumbraban los romanos, y se sustituyó por azúcar; hoy en día se utiliza caramelo líquido.<br><br> <strong>Presentaciones 1Kg., y 25 Kg.</strong><br><br> - Aplicación directamente en la leche. <br><br> - Sabor cremoso. <br><br> - Un Kg de polvo rinde para casi 6 Kg de Flan. <br><br> - Textura en polvo. <br><br> Tiene el tamaño exacto que tú necesitas sin tener que comprarlo a granel, esto se traduce en higiene y calidad. <br><br> ", 
+                  "<br>This is the favorite dessert of the youngest and oldest. The custard, in the Romans age, was known as “tyropatina”, and was eaten in the Lent, but wasn’t until the 7th century that the name “custard” became popular on this dessert.<br><br> Also, in this age, the people stopped sprinkling pepper in the surface, as the Romans used to, and was replaced by sugar; nowadays, by liquid caramel.<br><br> <strong>1kg and 25kg presentations</strong><br> -Direct application to the milk.<br> Creamy and dairy flavor.<br> -1kg of powder yields up to 6kg of custard.<br> -Powder texture.<br><br> The accurate size you need, without buying it in bulk, translates into hygiene; Without pollution, translates into quality."],
                 "modo":[
-                  "<br>Dosificar en un litro de leche 170 g., del flan en polvo y mezclar hasta quedar bien incorporado.",
+                  "<br>Dosificar en un litro de leche 170 gr del flan en polvo y mezclar hasta quedar bien incorporado.",
                   "<br>Dose into 1L of milk, 170gr of custard powder, then mix completely"
                 ],
 
@@ -642,7 +642,7 @@ var Productos ={
                 "subtitulo" : ["", ""],
 
                 "desc": [
-                  "<br>- Presentaciones de 1 Kg 5Kg y 20 Kg.<br>  - Listo para palotear, fácil de extender y cubrir.<br> - 4 sabores diferentes blanco nata, blanco bajo en azúcar sabor almendra, blanco sabor natural y chocolate sabor y color.<br> - Se puede colorear fácilmente con los 49 colores Jelly Color (Mezclar directamente con la pasta) y los 18 Liquid Color Metálicos (aplicar con aerógrafo).<br> - Fácil de almacenar, métalo en su bolsa y en su cubeta y no le pasa nada.<br> - Fácil de cortar porque no queda como una capa dura, siempre esta humectado",
+                  "<br>- Presentaciones de 1 Kg 5Kg y 20 Kg.<br><br> - Listo para usar, fácil de extender y cubrir.<br><br> - 4 sabores diferentes: color blanco con sabores coco nata, bajo en azúcar sabor almendra, sabor natural y de color y sabor chocolate.<br><br> - Se puede colorear fácilmente con los 49 colores Jelly Color (Mezclar directamente con la pasta) y los 18 Liquid Color Metálicos (aplicar con aerógrafo).<br><br> - Fácil de almacenar, almacenar cubierto con una bolsa dentro de una cubeta.<br><br> - Fácil de cortar porque siempre esta humectado.<br><br> ", 
                   "<br>-1Kg, 5kg and 20kg presentations.<br> -Ready to knead, easy to spread and cover.<br> -4 different flavors: white cream, white low in sugar, almond, white, natural, and chocolate (color and flavor)<br> -They can easily be colored with the 49 different jelly colors (mix directly with the fondant) and the 18 different metallic liquid colors (apply with an airbrush)<br> -Easy to store; place inside of a bag or a tray. It won’t happen anything to it.<br> -Easy to cut because it doesn’t remain hard, it’s always wetted. "
                 ],
 
