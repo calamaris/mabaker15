@@ -257,6 +257,10 @@ li#prod:hover > #prodSubmenu{
 
 /*------------------------------SLIDES*/
 
+#expo-actual{
+	background-image: url(../img/slider/expoBCN.jpg);
+}
+
 #slide2{
 	background-image: url(../img/slider/CMC.jpg);
 }
