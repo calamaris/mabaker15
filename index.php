@@ -16,7 +16,9 @@
 		<div id="fixHeader" data-0="height:154px" data-300="height:59px"></div>
 		<section id="slider">
 			<div id="sliderWrapper">
-			    <a href="http://www.bcnandcake.com/"><div class="slide" id="expo-actual"></div></a>
+			    <!-- <a href="http://www.bcnandcake.com/"><div class="slide" id="expo-actual"></div></a> -->
+			    <a href="#"><div class="slide" id="slide37"></div></a>
+			    <a href="#"><div class="slide" id="holiday"></div></a>
 			    <a href="#"><div class="slide" id="slide33"></div></a>
 			    <a href="#"><div class="slide" id="slide34"></div></a>
 			    <a href="#"><div class="slide" id="slide35"></div></a>

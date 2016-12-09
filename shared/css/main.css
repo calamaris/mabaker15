@@ -261,6 +261,10 @@ li#prod:hover > #prodSubmenu{
 	background-image: url(../img/slider/expoBCN.jpg);
 }
 
+#holiday{
+	background-image: url(../img/slider/navidad.jpg);
+}
+
 #slide2{
 	background-image: url(../img/slider/CMC.jpg);
 }
@@ -398,6 +402,10 @@ li#prod:hover > #prodSubmenu{
 
 #slide36{
 	background-image: url(../img/slider/ZapatillaParaChocolate.jpg);
+}
+
+#slide37{
+	background-image: url(../img/slider/esferaSilicon.jpg);
 }
 
 
