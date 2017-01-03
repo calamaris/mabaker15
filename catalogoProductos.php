@@ -647,19 +647,6 @@
 									</div>
 								</div> 
 							</a> <!-- producto -->
-							<a href="saborGanache.php">
-								<div class="btnProducto" >
-									<img src="shared/img/productos/productos320/SaboresGanache.png" width="100%"  />
-									<div class="texto">
-										<div class="texto1" id="tSaborGanache">
-											Sabor 
-										</div>
-										<div class="texto2" id="tSaborGanache2">
-											para Ganache
-										</div>
-									</div>
-								</div> 
-							</a> <!-- producto -->
 							<a href="saborGelatina.php">
 								<div class="btnProducto" >
 									<img src="shared/img/productos/productos320/SaborGelatina.png" width="100%"  />

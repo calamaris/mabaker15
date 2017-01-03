@@ -18,7 +18,7 @@
 			<div id="sliderWrapper">
 			    <!-- <a href="http://www.bcnandcake.com/"><div class="slide" id="expo-actual"></div></a> -->
 			    <a href="#"><div class="slide" id="slide37"></div></a>
-			    <a href="#"><div class="slide" id="holiday"></div></a>
+			    <!-- <a href="#"><div class="slide" id="holiday"></div></a> -->
 			    <a href="#"><div class="slide" id="slide33"></div></a>
 			    <a href="#"><div class="slide" id="slide34"></div></a>
 			    <a href="#"><div class="slide" id="slide35"></div></a>
@@ -43,7 +43,6 @@
 				<a href="pintaColorMetalico.php"><div class="slide" id="slide19"></div></a>
 				<a href="plumones.php"><div class="slide" id="slide20"></div></a>
 				<a href="royalIcing.php"><div class="slide" id="slide21"></div></a>
-				<a href="saborGanache.php"><div class="slide" id="slide22"></div></a>
 				<a href="saborGelatina.php"><div class="slide" id="slide23"></div></a>
 				<a href="saborPan.php"><div class="slide" id="slide24"></div></a>
 				<a href=".php"><div class="slide" id="slide25"></div></a>
