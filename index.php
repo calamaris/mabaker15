@@ -16,7 +16,13 @@
 		<div id="fixHeader" data-0="height:154px" data-300="height:59px"></div>
 		<section id="slider">
 			<div id="sliderWrapper">
-			    <!-- <a href="http://www.bcnandcake.com/"><div class="slide" id="expo-actual"></div></a> -->
+			  
+			    <a href="http://www.tradex.mx/manualidades/mexico/"><div class="slide" id="expo-cdmx"></div></a>
+			    <a href="http://exporeposteria.mx/"><div class="slide" id="expo-julio"></div></a>
+			    <a href="http://manualidadesgdl.xporegistro.com/"><div class="slide" id="expo-guadalajara"></div></a>
+			    <a href="http://www.tradex.mx/navidad/"><div class="slide" id="expo-manualidades"></div></a>
+			    <a href="http://tradex.mx/chocolates/"><div class="slide" id="expo-salon"></div></a>
+			    <a href="#"><div class="slide" id="expo-septiembre"></div></a>
 			    <a href="#"><div class="slide" id="slide37"></div></a>
 			    <!-- <a href="#"><div class="slide" id="holiday"></div></a> -->
 			    <a href="#"><div class="slide" id="slide33"></div></a>

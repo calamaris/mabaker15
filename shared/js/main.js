@@ -321,7 +321,7 @@ var seccion;
 
 function callJson (playlistId) {
     $.ajax({
-      url: "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json&maxResults=50&playlistId="+playlistId+"&key=AIzaSyBx9mbP6l6jnsctf-BKukGTkPkxUm37YOg",
+      url: "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json&maxResults=50&playlistId="+playlistId+"&key=AIzaSyB1k2tOfjKd0HYQGOmezKay7mDqZYBuTTw",
       type:"GET",
       cache: false
     })

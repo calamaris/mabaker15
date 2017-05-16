@@ -258,7 +258,31 @@ li#prod:hover > #prodSubmenu{
 /*------------------------------SLIDES*/
 
 #expo-actual{
-	background-image: url(../img/slider/expoBCN.jpg);
+	background-image: url(../img/slider/expo-veracruz.jpg);
+}
+
+#expo-cdmx{
+	background-image: url(../img/slider/expo-cdmx.jpg);
+}
+
+#expo-julio{
+	background-image: url(../img/slider/expoReposteriaPan.jpg);
+}
+
+#expo-septiembre{
+	background-image: url(../img/slider/expoPanCafe.jpg);
+}
+
+#expo-guadalajara{
+	background-image: url(../img/slider/expo-guadalajara.jpg);
+}
+
+#expo-manualidades{
+	background-image: url(../img/slider/expo-manualidades.jpg);
+}
+
+#expo-salon{
+	background-image: url(../img/slider/expo-salon.jpg);
 }
 
 #holiday{
